@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
+<title>Puppy Linux History</title>
+</head>
+
+<body>
+<div id="header"></div>
+<xmp theme="cerulean" style="display:none;">
+## Puppy Linux History
+
+Puppy Linux was originally created by [Barry Kauler](http://barryk.org/news) 
+in 2003, as a smaller, leaner version of Vector Linux. 
+
+From the beginning, the idea was to make a small, lean, yet 
+complete edition of Linux distribution that was useful from the get-go: 
+the downloaded ISO contains all the standard applications to handle usual
+computing needs: word processor, spreadsheet, and web browser.
+ 
+Another central idea that the OS would work off as a Live-CD, but
+with support for _"persistence"_ - that is, keep data between reboot 
+sessions. This way, the Live-CD can be used as if it is a fully installed
+operating system. However, if user data is corrupted in anyway, 
+in a flick of a switch the persistence can be turned off and Puppy 
+would boot in its pristine, Live-CD state.
+ 
+Size has always been a major consideration. Linux of these early days
+did not have good hardware support, thus Linux machines tend to be older
+and more obsolete computers with older CPUs and little RAM and storage.
+Also, broadband internet was not popular yet back then - many users
+were still on dial-up which limited the download speed to 38Kbps.
+So conscious decision were made to choose software components which
+provides the maximum functionality at a given size; e.g. the choice of
+ROX Filer as the file manager (which has stuck until today).
+
+
+
+### The very beginning - Series 0.x
+ 
+The first few releases were marked as 0.x versions, the last being
+version 0.9. These early releases didn't use unionfs, thus the
+persistence support was minimal; and only a few directories can keep
+user changes.
+
+Packages in Puppy Linux of this version was taken from Vector Linux
+as well as self-compiled.
+
+
+
+### Series 1.x
+
+Series 1.x included major changes; the most obvious one being its use
+of unionfs. This means entire Linux filesystem root can now be 
+persisted.
+
+Another major change was the UI make-up, this version started to use 
+GTK as its widget toolkit, replacing the original Xlib toolkit used
+in version 0.x.
+
+This version also introduced the ever popular "Remaster" option which
+enables anyone to make customise their Puppy installation by adding /
+removing packages and configuring their system; and then make a new
+Puppy ISO which contains all these changes.
+
+
+
+### Series 2.x
+
+Series 2.x was a breakthrough in many ways.
+
+It saw the update of GTK from GTK1 to GTK2, as well as support
+for more persistence modes - not only Puppy was able to keep its session
+in a harddisk, but also in USB flash drive, and even in it is own CD
+(if the CD is a CD-R or CD-RW). 
+
+With the Linux kernel supporting better hardware support around the 
+time of 2.x release, Puppy was able to run on newer machines with
+complete support for networking, wifi, USB, sound, and video - making
+it the idea work-and-entertainment Linux distro.
+
+It also introduced the first version of Puppy whose packages
+were built independently using T2 build system.
+
+It also introduced *"Puppy Unleashed"* build system, a tool for
+advanced users to build their own customised Puppy from scratch.
+
+Series 2.x was very popular, and it was longest-running series ever.
+The last version was 2.14, and that branch was kept alive and upgraded
+by dedicated enthusiast forum members even until today.
+
+
+
+### Series 3.x
+
+Series 3.x is the a short-lived branch. It was the first experiment
+of basing off Puppy from other distributions - in this case, Slackware.
+
+While some people stood by this series, many felt that in many ways
+this was too experimental. The usage of a big-distro packages (Slackware) 
+made it consume more memory than earlier Puppies, as well as made it
+slower.
+
+The latest version of this series was 3.0.1.
+
+
+
+### Series 4.x
+
+In this series, Puppy went back to its roots and used its own 
+self-compiled packages from T2, which made it lean and fast again.
+
+In addition, this version introduced the "Woof" build system.
+The difference between "Woof" and "Puppy Unleashed" is that while
+"Puppy Unleashed" used pre-packaged Puppy packages, the "Woof" build
+system is able to build a Puppy directly from completely foreign distro packages.
+
+While the official Puppy distributions in the 4.x series were all based
+on T2 builds, Woof support's for other distro resulted in an explosion
+of community-initiated puplets based on them:
+ 
+ * Upup - a Woof-built puplet based on Ubuntu
+ * Dpup - a Woof-built puplet based on Debian
+ * Spup - a Woof-built puplet based on Slackware 
+ * Apup - a Woof-built puplet based on Arch Linux
+
+This version also introduced the release of _"Quirky"_ - which was
+meant as a special release of Puppy Linux that contains experimental
+features. The idea being, once those features matured (and considered
+useful by the community), they would be integrated back to the 
+mainstream release.
+
+It is also in this version Barry indicated that he would step down
+from his role as Puppy benevolent dictator and would focus instead
+on maintaining "Woof"; hoping that the community would take the baton
+and do the Puppy-building themselves.
+
+The latest version of 4.x was 4.3.1.
+
+Just like Series 2.x, there where community members who hold 
+steadfastly to this series and keep maintaining it beyond long after
+Barry was finished with it - it is still maintained until today.
+
+
+
+### Version 5.x
+
+This version saw the first official Puppy Linux distro ("official" as in
+being endorsed by Barry) which was not released by Barry.
+
+The official Puppy Linux of Series 5.x grew up from _Upup_ - a Woof-built
+Puppy from Ubuntu packages. It was called Luci during its development and
+proclaimed as _Lupu_ (Lucid Puppy) upon release. It was developed and 
+maintained by Larry Short (aka _playdayz_). 
+
+The series proved to be very popular. It was the first good-looking
+Puppy, it was the first Puppy which had great focus on user-friendliness
+("Linux distro for Windows refugee" was first coined during Series 5.x),
+it was the first non-CE release that was built from community feedback,
+and it had the backings of immense number of Ubuntu packages, 
+many of them directly installable and usable from its package manager.
+
+Version 5.x also saw the release of Puppy Racy from Barry, built from
+T2 packages, for those who considered that Lupu was too heavy for 
+their machines. 
+
+Lupu was and is very popular and different forks are still maintained
+by different people until today, after Larry stepped down and ended
+his support. It is still popular even after Ubuntu itself discontinued
+support for Ubuntu Lucid Lynx, the distro on which Lupu was based.
+
+
+
+### Series 6.x
+
+Series 6.x Puppy is a fully community effort.
+
+Barry stepped down from Puppy **and** Woof effort, leaving everything
+to the stewards of the community to continue development of everything
+Puppy-related.
+
+The Woof build system is renamed as "Woof-CE" (Woof Community Edition).
+The first official release from Woof-CE is Puppy Linux Slacko 
+(Slacko Puppy) 6.3.0.
+
+
+
+## Community Editions
+
+Before the launch of "Woof", Barry was fully in charge of releasing
+Puppy Linux. Once a while however, Barry encouraged the community to take 
+the latest release, enhance it in anyway they see fit, and release it
+as a _"Community Edition" (CE)_ Puppy with his endorsement.
+
+A CE release is usually coordinated by a community-appointed
+"project manager", and supported by a few "core" developers who
+did the actual customisations - code, packages, artwork, etc, based
+on feedback on the community. CE project usually runs between one to
+three months with many releases in between to test for community feedback
+before the final release.
+
+CE releases usually provide richer experiences than standard
+releases; they are usually better looking and more user-friendly due
+to many contributions and integration of feedback from community during 
+their development.
+
+Every series had its CE release. Series 1.x has 1.09-CE; Series 2 has 
+2.15CE, series 4.x has 4.2 and 4.2.1CE. The series 5.x Puppy is 
+virtually a CE too by every definition, except by name.
+
+The CE tradition, however, ended after the release of "Woof".
+
+After the release of Woof it was trivial for advanced users to release 
+custom versions of Puppy; this resulted in many puplets and 
+competition for community attention between them. 
+
+It diluted the concentrated effort required to make a successful CE. 
+4.2CE took a very long time (compared to earlier CEs) due to this; 
+it competed for resources with Upup would become the official 
+Series 5.x Puppy, which is also a CE by every definition except by name.
+
+
+</xmp>
+
+<div id="footer"></div>
+<script src="v/chibi.min.js"></script>
+<script src="c/puppy.js"></script>
+<script src="v/0.2/strapdown.js"></script>
+</body>
+</html>
