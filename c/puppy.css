@@ -78,6 +78,22 @@ table {
     height: 32px;
     content:"";
 }
+.wiki {
+    background: url('wiki.svg') no-repeat center; 
+    background-size: 32px 32px;
+    display: inline-block;
+    width: 90px; 
+    height: 32px;
+    content:"";
+}
+.wiki:hover {
+    background: #f5f5f5 url('wiki.svg') no-repeat center; 
+    background-size: 32px 32px;
+    display: inline-block;
+    width: 90px; 
+    height: 32px;
+    content:"";
+}
 .puppy-bar-bg { 
 	margin-top: 3em;
 	border-top: 1px solid black;
