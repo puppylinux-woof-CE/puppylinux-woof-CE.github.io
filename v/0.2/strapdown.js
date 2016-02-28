@@ -436,7 +436,7 @@ var PR=win['PR']={'createSimpleLexer':createSimpleLexer,'registerLangHandler':re
   }
 
   // All done - show body
-  document.body.style.display = '';
+  //document.body.style.display = ''; // comment out - puppy.js will take care of this
 
 })(window, document);
 

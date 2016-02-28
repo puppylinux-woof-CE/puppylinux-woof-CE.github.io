@@ -3,8 +3,8 @@
 // header and footer
 // create header first - important so strapdown.js won't attempt to create its own
 var header = document.createElement('div');
-$(header).addClass("navbar"); // this is what strapdown.js is looking for
 document.body.insertBefore(header, document.body.firstChild);
+$(header).addClass("navbar"); // this is what strapdown.js is looking for
 $().get("c/header.html", function(data) { 
 	$(header).html(data);
 });
@@ -29,3 +29,7 @@ e.rel = 'icon';
 e.type = 'image/png';
 document.head.appendChild(e);
 
+// display all when ready
+$().loaded(function() {
+	document.body.style.display = '';
+});
