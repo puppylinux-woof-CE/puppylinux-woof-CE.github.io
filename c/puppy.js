@@ -9,3 +9,11 @@ var e = document.createElement('link');
 e.href = 'c/puppy.css';
 e.rel = 'stylesheet';
 document.head.appendChild(e);
+
+// favicon
+e = document.createElement('link');
+e.href = 'c/puppylogo96.png';
+e.rel = 'icon';
+e.type = 'image/png';
+document.head.appendChild(e);
+
