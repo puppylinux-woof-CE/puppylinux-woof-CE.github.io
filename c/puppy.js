@@ -31,5 +31,5 @@ document.head.appendChild(e);
 
 // display all when ready
 $().loaded(function() {
-	document.body.style.display = '';
+	//document.body.style.display = '';
 });
