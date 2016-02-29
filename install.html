@@ -72,7 +72,7 @@ media files (either an iso image, optical media or just the files
 themselves) and once confirmed these are copied to a folder in your
 chosen USB drive. A _bootloader_ is then installed and once finished
 you can reboot into your new system. This can be booted on any computer
-you like!
+you like! This is also a type of _frugal_ installation.
 
 >Again, this will be a pristine system that requires you to save your 
 session at shut down if you want to keep your settings. Once saving the 
@@ -95,22 +95,65 @@ you can reboot into your new system.
 
 >Once booted this will act like any other Linux installation.
 
+### Using Puppy
+
+Puppy is famous for its ease of use. The desktop layout is traditional
+with a task bar at the bottom (or top) and icons on the desktop. Anyone
+coming from Windows™, Mac OSX™ or another Linux such as Ubuntu, Fedora or
+Arch will have little issue getting used to it. The interface is a typical 
+WIMP style (Windows, Icons, Menus and a Pointing device).
+
+While puppy comes with almost everything you need to write, calculate, enjoy 
+videos and music, create artwork, work with your digital camera, and more
+there invariably comes a time when you need an an extra piece of software.
+Extra software comes in the form of _pet_ packages which can be installed
+through the Puppy Package Manager or by downloading from a trusted source and
+simply clicking on the package. Puppy also has the capability of installing
+_deb_, _rpm_ and _tgz/txz_ packages from Debian family, Red Hat family and 
+Slackware family of Linux operating systems.
+
+The way Puppy is designed, if you use a _frugal_ type install, software can
+be installed as an _sfs_ (Squash File System) package. This is the preferred 
+method to install very large packages such as _LibreOffice_. In fact the Puppy
+development environment, including the _GNU Compiler Collection_ (GCC) and 
+development libraries and headers, is shipped as an _sfs_; a separate download 
+to the main ISO image. The is a tool call _SFS Load_ which makes installing 
+these packages a one step process. _The sfs packages do not work on a full 
+install_.
+
+Once you have been using Puppy for a little while you may want to try a
+_remaster_ (see [FAQ](faq.html)). This saves the state of your current
+installed system (minus some the personal stuff) to a burnable ISO image. 
+This enables you to have your system setup and ready to go if you have
+several computers or you can share your remaster as a _puplet_ with the
+community.
+
 <br/>
 
-While we recommend _frugal_ or _USB_ installations the choice is entirely
-yours.
+**However you decide to install (or _not_) Puppy Linux, we hope you enjoy
+using it for years to come!**
 
-<a id="part">[1]</a> Some common linux partition filesystems that Puppy 
+<br/>
+#### Notes
+_While we recommend **frugal** or **USB** installations the choice is entirely
+yours._
+
+<a id="part">[1]</a> Some common linux filesystems that Puppy 
 supports are ext2, ext3, ext4, f2fs. Windows™ filesystems supported are
 fat16, fat32 and ntfs.
 
 <a id="save">[2]</a> A _pupsave_ **file** is a file that contains a linux
-filesystem. It can be stored on any supported partition. It is a fixed size
+_filesystem_. It can be stored on any supported partition. It is a fixed size
 and can be as small as 32MB and as large as 4GB (on fat32) and even larger
-on other filesystems.
+on other filesystems. The _pupsave_ file can be enlarged later on, but the
+challenge is to keep your system trim and clean by regularly deleting
+browser cache, cleaning up any stray files and storing other stuff outside
+the save file.
 
 A _pupsave_ **folder** can only be created on a _linux_ filesystem. This 
 allows you to store as much as your partition can hold.
+
+<br/>
 
 Last updated 29 Feb 2016.
 
