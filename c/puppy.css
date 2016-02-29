@@ -6,93 +6,29 @@
     height: 32px;
     content:"";
 }
-table {
+#boxbar {
+	float: right;
+	height: 36px;
+}
+.menu li{
 	display: inline-block;
 }
-#navbox a { 
-	display: block;
-	height: 32px;
-	text-indent: -9999px;
+.navbox { 
+	text-align:center;
+	height: 36px;
+	width: 90px;
 }
-.home {
-    background: url('home.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
+.navbox a { 
+	display:block;
+	height: 36px;
+	width: 90px;
 }
-.home:hover {
-    background: #f5f5f5 url('home.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
+.navbox a:hover { 
+	background: #f5f5f5;
 }
-.news {
-    background: url('news.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
-}
-.news:hover {
-    background: #f5f5f5 url('news.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
-}
-.dld {
-    background: url('dld.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
-}
-.dld:hover {
-    background: #f5f5f5 url('dld.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
-}
-.forum {
-    background: url('forum.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
-}
-.forum:hover {
-    background: #f5f5f5 url('forum.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
-}
-.wiki {
-    background: url('wiki.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
-}
-.wiki:hover {
-    background: #f5f5f5 url('wiki.svg') no-repeat center; 
-    background-size: 32px 32px;
-    display: inline-block;
-    width: 90px; 
-    height: 32px;
-    content:"";
+.nav-icons {
+	height: 24px;
+	width: 24px;
 }
 .puppy-bar-bg { 
 	margin-top: 3em;
