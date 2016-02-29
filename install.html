@@ -8,6 +8,110 @@
 <textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
 ## Puppy Linux Installation and Usage
 
+The fact is that you do not need to install Puppy Linux at all! You can 
+simply [download](index.html#download) and burn it to an optical disc
+(CD, DVD, CD&plusmn;RW, DVD&plusmn;RW) or _dd_ it to an USB drive and
+boot it _live_. When you are finished you can decide to save the session
+or not! Not saving the session does not leave a trace of the operating 
+system as Puppy runs entirely in RAM and as soon as the computer is
+powered off the RAM is flushed. This is ideal from a security perspective
+for internet banking or other sensitive financial transactions performed
+over the internet.
+
+Saving the session this can be achieved in a number of ways:
+ 
+ 1. You can save the session to a harddrive or an USB drive in a vfat,
+    ntfs or linux<sup><a href="#part">[1]</a></sup> partition. This 
+    will save all your settings to what is known as a _pupsave_
+    <sup><a href="#save">[2]</a></sup> file or folder. When you boot off the 
+    same media next time the _pupsave_ will be found and all your files
+    and settings will be as you left them. 
+ 
+ 2. If you booted off of optical media you can save the session and all
+    settings back to that same optical disc.
+    
+### So you want to _install_ Puppy
+
+Naturally you can actually install Puppy if you wish. Once you boot Puppy
+and are happy with what you see it is time to open the _Puppy Installer_
+from _Setup_ in the main menu. There are 3 main types of install; _frugal_,
+_USB_ and traditional _full_ install.
+
+#### 1. Frugal install (**Recommended**)
+    
+>**This type of install copies the main puppy files from the boot
+media (either optical or USB) to your harddrive**. Firstly, you are
+presented with some information about your system and what partitions
+you have available. If you don't have a suitable partition then you can
+use the included graphical partition manager _GParted_ to shrink and 
+move partitions as necessary to created a partition for your installation.
+Once this is done you are prompted for the location of your boot
+media files (either an iso image, optical media or just the files
+themselves) and once confirmed these are copied to a folder in your
+chosen partition. A _bootloader_ is then installed and once finished
+you can reboot into your new system.
+
+>This will be a pristine system that requires you to save your session at 
+shut down if you want to keep your settings. Once saving the session
+is complete, a _pupsave_ file or folder is created. On you next boot
+your files and settings will be exactly as you left them at last shutdown.
+    
+#### 2. USB Install (**Recommended**)
+  
+>**This type of install copies the main puppy files from the boot
+media (either optical or USB) to your chosen USB drive**. Firstly, you 
+should insert the USB drive that you want to use for installation. Again 
+using the graphical partition manager _GParted_ you need to make sure
+that there is a suitable partition on the USB drive. This can be formatted
+to _fat32_ Windows™ style filesystem (good for portability if you want 
+to use the drive as storage to be used between Linux and Windows™) or 
+one of the supported Linux filesystems. (**Note**: not all Puppies
+support the f2fs filesystem. The installer is intelligent enough
+to know this.) Again, you are prompted for the location of your boot
+media files (either an iso image, optical media or just the files
+themselves) and once confirmed these are copied to a folder in your
+chosen USB drive. A _bootloader_ is then installed and once finished
+you can reboot into your new system. This can be booted on any computer
+you like!
+
+>Again, this will be a pristine system that requires you to save your 
+session at shut down if you want to keep your settings. Once saving the 
+session is complete, a _pupsave_ file or folder is created. On you next 
+boot your files and settings will be exactly as you left them at last 
+shutdown.
+    
+#### 3. Full Install
+  
+>**This is a traditonal Linux install to its own dedicated partition.**
+If you don't have a suitable partition then you can
+use the included graphical partition manager _GParted_ to shrink and 
+move partitions as necessary to created a partition for your installation.
+**You must use a Linux filesystem**.
+Once this is done you are prompted for the location of your boot
+media files (either an iso image, optical media or just the files
+themselves) and once confirmed these are _expanded_ in your
+chosen partition. A _bootloader_ is then installed and once finished
+you can reboot into your new system.
+
+>Once booted this will act like any other Linux installation.
+
+<br/>
+
+While we recommend _frugal_ or _USB_ installations the choice is entirely
+yours.
+
+<a id="part">[1]</a> Some common linux partition filesystems that Puppy 
+supports are ext2, ext3, ext4, f2fs. Windows™ filesystems supported are
+fat16, fat32 and ntfs.
+
+<a id="save">[2]</a> A _pupsave_ **file** is a file that contains a linux
+filesystem. It can be stored on any supported partition. It is a fixed size
+and can be as small as 32MB and as large as 4GB (on fat32) and even larger
+on other filesystems.
+
+A _pupsave_ **folder** can only be created on a _linux_ filesystem. This 
+allows you to store as much as your partition can hold.
+
 Last updated 29 Feb 2016.
 
 </textarea>
