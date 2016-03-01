@@ -14,7 +14,6 @@ $().get("c/footer.html", function(data) {
 	var e = document.createElement('div');
 	$(e).html(data);
 	document.body.appendChild(e);
-	console.log(document.lastModified);
 	var d = new Date(document.lastModified);
 	$("#last-updated").html(d);
 });
