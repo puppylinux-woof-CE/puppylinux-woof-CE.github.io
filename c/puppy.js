@@ -35,7 +35,7 @@ $().get("c/footer.html", function(data) {
 	
 	// update date
 	var d = new Date(document.lastModified);
-	$("#last-updated").html(d);
+	$("#last-updated").html(d.toDateString());
 	
 	// contributors list
 	var f = location.pathname;
