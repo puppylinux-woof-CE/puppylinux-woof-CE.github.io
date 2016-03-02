@@ -51,7 +51,7 @@ Some 32 bit processors have not got PAE capability set in their instructions.
 It is a limited few but a notable one is the Intel Centrino with 400MHz FSB.
 Some quite old processors do not support PAE too.
 
-A similar chack to the 64 bit test above can be performed to determine
+A similar check to the 64 bit test above can be performed to determine
 your processors PAE capabily:
 
 `grep -o -w -q 'pae' /proc/cpuinfo && echo "PAE Supported" || echo "PAE Unsupported"`
@@ -84,7 +84,7 @@ making the operating system "i686". Most software is compiled i686 as well.
 **x86_64** is just x86 with 64 bit addressing capability. This gives
 the operating system access to 64 GB of RAM natively.
 
-AMD were the first to come up with a 64 bit processor with their Opteron line
+AMD were the first to come up with a 64 bit processor with their "Opteron" line
 in 2003. In 2004 Intel released its first 64 bit processor "Nocona".
 
 In summary:
