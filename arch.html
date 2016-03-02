@@ -57,7 +57,7 @@ your processors PAE capabily:
 `grep -o -w -q 'pae' /proc/cpuinfo && echo "PAE Supported" || echo "PAE Unsupported"`
 
 This will return `PAE Supported` if your processor supports PAE; 
-`PAE Unupported` if your processor does not. 
+`PAE Unsupported` if your processor does not. 
 
 If you have less than 4GB of RAM there isn't much point in using a PAE enabled
 operating system, however in most cases it will work fine anyway.
