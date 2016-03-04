@@ -32,7 +32,7 @@ There are many ways to contribute back what you receive from Puppy Linux.
    
 3. If you're good at video publishing, help to create some sort of videos
    about Puppy Linux (marketing, inspirational, educational, etc) and
-   upload it to common video sharing websites such as Puppy Linux.
+   upload it to common video sharing websites such as You Tube.
 
 4. If you have some extra space in your server hosting, help
    to mirror Puppy Linux files.
