@@ -19,8 +19,6 @@ $().ready(function() {
 	// This makes use of Github API. If hosted else where, this needs to change
 	var user = "puppylinux-woof-CE";
 	var repo = "puppylinux-woof-CE.github.io";
-	user = "jamesbond3142"; // TEST
-	repo = "jamesbond3142.github.io"; // TEST
 	$().get('https://api.github.com/repos/'+user+'/'+repo+'/commits?path='+f,
 	function(data) {
 		var o = JSON.parse(data);
