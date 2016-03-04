@@ -145,7 +145,7 @@ This version saw the first official Puppy Linux distro ("official" as in
 being endorsed by Barry) which was not released by Barry. It also marked
 the first time that there are _**four**_ concurrent official Puppy releases.
 
-** Lucid Puppy **
+**Lucid Puppy**
 
 The first official Puppy Linux of Series 5.x grew up from _Upup_ - 
 a Woof-built Puppy from Ubuntu packages. It was called Luci during its 
@@ -164,7 +164,7 @@ by different people until today, after Larry stepped down and ended
 his support. It is still popular even after Ubuntu itself discontinued
 support for Ubuntu Lucid Lynx, the distro on which Lupu was based.
 
-** Wary Puppy **
+**Wary Puppy**
 
 The second official Puppy is from Barry himself, and not
 as popular as the Lupu or Slacko: Wary Puppy.
@@ -180,7 +180,7 @@ Wary Puppy was built from self-compiled T2 packages; it
 was offered for those who considered that Lupu/Slacko was too heavy for 
 their machines.
 
-** Slacko Puppy **
+**Slacko Puppy**
 
 The third official Puppy Linux of Series 5.x is Slacko Puppy, aka
 Puppy Linux Slacko, which grew out of _Slackpup_ - a Woof-built Puppy
@@ -198,7 +198,7 @@ modern hardware. They both have higher requirements than Puppies of the
 past but they offer much better experience on those whose hardware can
 support them.
 
-** Racy Puppy **
+**Racy Puppy**
 
 The fourth official puppy in the 5 series was another by Barry; Racy Puppy.
 He billed it as "Wary on steroids" and featured a PAE kernel and a later
@@ -212,7 +212,7 @@ this).
 Racy Puppy was built from self-compiled T2 packages; which were the same
 core packages that were used to build Wary Puppy.
 
-** Precise Puppy **
+**Precise Puppy**
 
 Precise Puppy was the fifth to be released in the 5 series again by
 Barry. This was built with Ubuntu binary compatibility from Precise
@@ -289,8 +289,8 @@ scratch in the same way that Barry himself built the official Puppies.
 
 For example, Series 5.x Puppy is virtually a CE release by every
 definition except by name. Series 6.x Puppy (Puppies based on Woof-CE) 
-are all CE releases - both official (Slacko Puppy) and un-official 
-(Tahrpup, etc).
+are all CE releases - both Slacko Puppy and Tahrpup (Tahrpup even has
+CE as its name).
 
 
 
