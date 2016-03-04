@@ -116,7 +116,6 @@ If you contribute a lot of things, expect that someday
 you will be asked to become a steward yourself. If you don't, then
 don't expect that making a lot of noises and demands will make you one.
 
-<p id="stewards"></p>
 #### List of current Puppy Linux stewards
 
 1. Puppy Linux Master Steward - Mick Amadio (_01micko_).<br>
