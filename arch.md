@@ -89,7 +89,7 @@ In summary:
 
   * AMD Opteron, Athlon X2 and later are 64 bit processors
   
-  * Intels Pentium 4 Prescott gain 64 bit support in 2004.
+  * Intel's Pentium 4 Prescott gained 64 bit support in 2004.
     Pentium D and later are 64 bit processors with the exception of some
     Atom processors ("Diamondville" and some others).
 
