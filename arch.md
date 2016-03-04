@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<title>Puppy Linux Supported Architectures</title>
-</head>
-
-<body>
-<textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
+---
+layout: default
+title: Puppy Linux Supported Architectures
+authors: 01micko, mavrothal
+updated: 4 Mar 2016
+---
 ## Puppy Linux Supported Architectures
 
 Puppy Linux as of November 2015 supports both x86 and x86_64 CPU architectures.
@@ -151,14 +149,3 @@ Feel free to "ask away" on the
 [What is UEFI](http://windows.microsoft.com/en-AU/windows-8/what-uefi)
 
 [About UEFI](http://www.uefi.org/about)
-
-
-
-</textarea>
-
-<div id="footer"></div>
-<script src="v/chibi.min.js"></script>
-<script src="c/puppy.js"></script>
-<script src="v/0.2/strapdown.js"></script>
-</body>
-</html>

@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<title>Puppy Linux History</title>
-</head>
-
-<body>
-<textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
+---
+layout: default
+title: Puppy Linux History
+authors: 01micko, ninaholic, mavrothal
+updated: 4 Mar 2016
+---
 ## Puppy Linux History
 
 Puppy Linux was originally created by [Barry Kauler](http://barryk.org/news) 
@@ -388,17 +386,3 @@ more about various Puppy Linux distributions that have been released
 in the past, and their relationship to one another. Head on to 
 [Puppy Linux Family Tree](family-tree.html) to satisfy your curiosity.
 
-
-
-
-
-
-
-</textarea>
-
-<div id="footer"></div>
-<script src="v/chibi.min.js"></script>
-<script src="c/puppy.js"></script>
-<script src="v/0.2/strapdown.js"></script>
-</body>
-</html>

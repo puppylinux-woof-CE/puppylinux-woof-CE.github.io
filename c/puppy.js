@@ -1,37 +1,8 @@
 /* Puppy specific stuff */
 
-// load stylesheet
-var e = document.createElement('link');
-e.href = 'c/puppy.css';
-e.rel = 'stylesheet';
-document.head.appendChild(e);
-
-// load favicon
-e = document.createElement('link');
-e.href = 'c/puppylogo96.png';
-e.rel = 'icon';
-e.type = 'image/png';
-document.head.appendChild(e);
-
-// unhide when ready
-$().loaded(function() {
-	document.body.style.display = '';
-});
-
-// header and footer
-// create header first - important so strapdown.js won't attempt to create its own
-var header = document.createElement('div');
-document.body.insertBefore(header, document.body.firstChild);
-$(header).addClass("navbar"); // this is what strapdown.js is looking for
-$().get("c/header.html", function(data) { 
-	$(header).html(data);
-});
-
-// load header and footer
-$().get("c/footer.html", function(data) { 
-	var e = document.createElement('div');
-	$(e).html(data);
-	document.body.appendChild(e);
+$().ready(function() {
+	// Style tables - from strapdown.js
+	$('table').addClass('table table-striped table-bordered');
 	
 	// update date
 	var d = new Date(document.lastModified);
@@ -42,10 +13,15 @@ $().get("c/footer.html", function(data) {
 	var i = f.lastIndexOf("/");
 	f = f.substring(i+1);
 	if (f == "") f += "index.html";
+	f = f.replace(".html",".md");
 	//console.log(f);
 	
 	// This makes use of Github API. If hosted else where, this needs to change
-	$().get('https://api.github.com/repos/puppylinux-woof-CE/puppylinux-woof-CE.github.io/commits?path='+f,
+	var user = "puppylinux-woof-CE";
+	var repo = "puppylinux-woof-CE.github.io";
+	user = "jamesbond3142"; // TEST
+	repo = "jamesbond3142.github.io"; // TEST
+	$().get('https://api.github.com/repos/'+user+'/'+repo+'/commits?path='+f,
 	function(data) {
 		var o = JSON.parse(data);
 		var s = {};
@@ -64,6 +40,5 @@ $().get("c/footer.html", function(data) {
 		$("#contributors").html(o);
 		
 	}, false, true);
-	
 });
 

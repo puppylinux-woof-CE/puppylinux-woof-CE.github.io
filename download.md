@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<title>Puppy Linux Download Page</title>
-</head>
-
-<body>
-<textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
+---
+layout: default
+title: Puppy Linux Downloads
+authors: 01micko, mavrothal
+updated: 4 Mar 2016
+---
 ## Puppy Linux Downloads
 
 ### These are the latest woof-CE built puppies
@@ -45,16 +43,3 @@ the [AARNET](http://mirror.aarnet.edu.au/pub/puppylinux/) and the
 Australia are known to update regularly and are usually faster than Ibiblio.
 
 _Mirrors may take up to a day to incorporate changes in Ibiblio_.
-
-<br/>
-
-
-
-</textarea>
-
-<div id="footer"></div>
-<script src="v/chibi.min.js"></script>
-<script src="c/puppy.js"></script>
-<script src="v/0.2/strapdown.js"></script>
-</body>
-</html>

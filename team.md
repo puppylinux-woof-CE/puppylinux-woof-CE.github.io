@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<title>Puppy Linux Team</title>
-</head>
-
-<body>
-<textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
+---
+layout: default
+title: Puppy Linux Team
+authors: 01micko, mavrothal
+updated: 4 Mar 2016
+---
 ## Puppy Linux Team
 
 Puppy Linux team is you! Yes, you. No, this is not a joke. 
@@ -144,14 +142,3 @@ don't expect that making a lot of noises and demands will make you one.
 6. Puppy linux News - Raffy Mananghaya
 
 
-
-
-
-
-</textarea>
-
-<script src="v/chibi.min.js"></script>
-<script src="c/puppy.js"></script>
-<script src="v/0.2/strapdown.js"></script>
-</body>
-</html>

@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<title>Puppy Linux Installation and Usage</title>
-</head>
-
-<body>
-<textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
+---
+layout: default
+title: Puppy Linux Installation and Usage
+authors: 01micko, mavrothal
+updated: 4 Mar 2016
+---
 ## Puppy Linux Installation and Usage
 
 The fact is that you do not need to install Puppy Linux at all! You can 
@@ -153,15 +151,3 @@ the save file.
 A _pupsave_ **folder** can only be created on a _linux_ filesystem. This 
 allows you to store as much as your partition can hold.
 
-<br/>
-
-
-
-</textarea>
-
-<div id="footer"></div>
-<script src="v/chibi.min.js"></script>
-<script src="c/puppy.js"></script>
-<script src="v/0.2/strapdown.js"></script>
-</body>
-</html>

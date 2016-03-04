@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<title>Puppy Linux Family Tree</title>
-</head>
-
-<body>
-<textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
+---
+layout: default
+title: Puppy Linux Family Tree
+authors: 01micko, mavrothal
+updated: 4 Mar 2016
+---
 ## Puppy Linux Family Tree
 
 If you come to this after reading [Puppy Linux history](history.html),
@@ -129,11 +127,3 @@ existence to Puppy Linux in one way or another.
  * Puppy Studio →  A commercial Puppy Linux derivative targeted at
    artists, mainly musicians. Maintained by _l0wtech_.
 
-
-</textarea>
-
-<script src="v/chibi.min.js"></script>
-<script src="c/puppy.js"></script>
-<script src="v/0.2/strapdown.js"></script>
-</body>
-</html>

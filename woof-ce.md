@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<title>Puppy Linux Woof-CE</title>
-</head>
-
-<body>
-<textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
+---
+layout: default
+title: Puppy Linux Woof-CE
+authors: 01micko, mavrothal
+updated: 4 Mar 2016
+---
 ## Puppy Linux Woof-CE
 
 Woof-CE is a collection of build scripts that will automatically
@@ -183,10 +181,3 @@ will work like it because it's the only one that has your unique changes.
 
 
 
-</textarea>
-
-<script src="v/chibi.min.js"></script>
-<script src="c/puppy.js"></script>
-<script src="v/0.2/strapdown.js"></script>
-</body>
-</html>

@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<title>Puppy Linux Home</title>
-</head>
-
-<body>
-<textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
+---
+layout: default
+title: Puppy Linux Home
+authors: 01micko, mavrothal
+updated: 4 Mar 2016
+---
 ## About Puppy Linux
 
 Puppy Linux is a unique family of Linux distributions meant for the home-user computers. It was originally created by 
@@ -26,8 +24,8 @@ If one of these things interest you, read on.
 
 ### Yes, but what does it look like?
 
-<p style="padding:40px;">![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg)
-</p>
+![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg){:padding="40px;"}
+
 
 ### First thing first
 
@@ -59,6 +57,7 @@ There are generally three broad categories of Puppy Linux distributions:
 
 
 <p id="download"/><!--do not edit this line-->
+
 ### Why not try it? Download now! (Official distributions)
 
 Get the ISO, burn it to a CD/DVD using your favorite CD/DVD burner, 
@@ -115,10 +114,3 @@ or just plain chit-chat, we welcome you to join us at
 [team]: team.html
 [family-tree]: family-tree.html
 [screen]: screenshots.html
-
-</textarea>
-<script src="v/chibi.min.js"></script>
-<script src="c/puppy.js"></script>
-<script src="v/0.2/strapdown.js"></script>
-</body>
-</html>

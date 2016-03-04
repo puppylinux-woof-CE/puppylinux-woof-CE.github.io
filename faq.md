@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<title>Puppy Linux Frequently Asked Questions (FAQ)</title>
-</head>
-
-<body>
-<textarea theme="cerulean" readonly style="width:100%;" rows="40" cols="100">
+---
+layout: default
+title: Puppy Linux Frequently Asked Questions (FAQ)
+authors: 01micko, mavrothal
+updated: 4 Mar 2016
+---
 ## Puppy Linux Frequently Asked Questions (FAQ)
 
 ### Downloads and Usage
@@ -134,11 +132,3 @@
    play the role of gatekeepers / stewards. They are simply people that
    the stewards have trusted enough to give them push access.
 
-
-</textarea>
-
-<script src="v/chibi.min.js"></script>
-<script src="c/puppy.js"></script>
-<script src="v/0.2/strapdown.js"></script>
-</body>
-</html>
