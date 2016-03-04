@@ -132,6 +132,7 @@ community.
 using it for years to come!**
 
 <br/>
+
 #### Notes
 
 _While we recommend **frugal** or **USB** installations the choice is entirely
