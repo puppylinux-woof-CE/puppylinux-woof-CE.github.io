@@ -35,6 +35,8 @@ There are a few prerequisites to building a woof-CE based Puppy:
   * the `devx` sfs module must be loaded. It contains some essentials
     like the _git_ program.
     
+  * a partition with no less than 10 GB of free space with a _Linux filesystem_ 
+    
 
 
 <br/>
