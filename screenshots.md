@@ -27,7 +27,7 @@ Browser and VLC Media Player.
 
 #### Slacko 6.3.0
 
-Featuring Gnumeric, Samba Simple Management, YASSM Share Browser Rox Filer, 
+Featuring Gnumeric, Samba Simple Management, YASSM Share Browser, Rox Filer, 
 Welcome screen and Menu.
 
 ![Screenshot of Slacko 6.3.0](screenshots/slacko.jpg)
@@ -53,6 +53,13 @@ Terminal.
 Puplet builders are free to explore whatever combination of desktop they like.
 LXDE and XFCE Desktop Environments have proven popular alternatives over the 
 years.
+
+#### Librepup
+
+Featuring Qupzilla browser, Puppy Setup, VLC Media Player, SFS Load
+and JWM / Rox desktop.
+
+![Screenshot of Librepup](screenshots/librepup.jpg)
 
 #### Lxpup
 
