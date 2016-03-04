@@ -115,7 +115,7 @@ be installed as an _sfs_ (Squash File System) package. This is the preferred
 method to install very large packages such as _LibreOffice_. In fact the Puppy
 development environment, including the _GNU Compiler Collection_ (GCC) and 
 development libraries and headers, is shipped as an _sfs_; a separate download 
-to the main ISO image. The is a tool call _SFS Load_ which makes installing 
+to the main ISO image. There is a tool call _SFS Load_ which makes installing 
 these packages a one step process. _The sfs packages do not work on a full 
 install_.
 
@@ -138,7 +138,7 @@ using it for years to come!**
 _While we recommend **frugal** or **USB** installations the choice is entirely
 yours._
 
-<a id="part">[1]</a> Some common linux filesystems that Puppy 
+<a id="part">[1]</a> Some common Linux filesystems that Puppy 
 supports are ext2, ext3, ext4, f2fs. Windows™ filesystems supported are
 fat16, fat32 and ntfs.
 
