@@ -46,7 +46,7 @@ them).
 
 ### Puplets
 
-In addition the "official" puppies, there are also a multitude of
+In addition to the "official" puppies, there are also a multitude of
 unofficial Puppies, built by Puppy enthusiasts. Usually (but not always)
 made as a remaster, they fill the niche of almost every need. They
 are usually called as _"puplets"_.
@@ -57,7 +57,7 @@ themselves.
 Here are some of the more notable puplets, in no particular order:
 
   * Macpup - a puplet by _runtt21_ which takes its design inspiration
-    from Mac OSX™. Its main feature is that it uses the Enlightnment
+    from Mac OSX™. Its main feature is that it uses the Enlightenment
     Desktop Environment.
     
   * Saluki - this one is by _jemima_ and its standout feature is the
