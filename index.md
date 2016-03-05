@@ -65,12 +65,12 @@ or _flash_ it using _dd_ ([Windows version](http://www.chrysocome.net/dd))
 to your USB flash drive, or visit our [download](download.html) page
 for more comprehensive information.
 
-|Compatibility \*  | Bits    | Latest Version        | Type       | Download link                                      |
-|------------------|---------|-----------------------|------------|----------------------------------------------------|
-|Slackware 14.1    | 32-bit  | Slacko Puppy   6.3.0  | ISO-hybrid | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
-|Slackware64 14.1  | 64-bit  | Slacko64 Puppy 6.3.0  | ISO-hybrid | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
-|Ubuntu Tahr       | 32-bit  | Tahrpup 6.0.5         | ISO-hybrid | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
-|Ubuntu Tahr 64    | 64-bit  | Tahrpup64 6.0.5       | ISO-hybrid | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
+|Compatibility \*  | Bits    | Latest Version        | Download link                                      |
+|------------------|---------|-----------------------|----------------------------------------------------|
+|Slackware 14.1    | 32-bit  | Slacko Puppy   6.3.0  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
+|Slackware64 14.1  | 64-bit  | Slacko64 Puppy 6.3.0  | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
+|Ubuntu Tahr       | 32-bit  | Tahrpup 6.0.5         | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
+|Ubuntu Tahr 64    | 64-bit  | Tahrpup64 6.0.5       | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
 {: .table .table-striped .table-bordered }
 
 [sl32]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.0/32/slacko-6.3.0.iso
