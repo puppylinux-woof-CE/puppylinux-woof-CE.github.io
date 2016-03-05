@@ -24,7 +24,7 @@ If one of these things interest you, read on.
 
 ### Yes, but what does it look like?
 
-![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg){:padding="40px;"}
+![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg){: .cr-image }
 
 
 ### First thing first
@@ -71,6 +71,7 @@ for more comprehensive information.
 |Slackware64 14.1  | 64-bit  | Slacko64 Puppy 6.3.0  | ISO-hybrid | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
 |Ubuntu Tahr       | 32-bit  | Tahrpup 6.0.5         | ISO-hybrid | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
 |Ubuntu Tahr 64    | 64-bit  | Tahrpup64 6.0.5       | ISO-hybrid | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
+{: .table .table-striped .table-bordered }
 
 [sl32]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.0/32/slacko-6.3.0.iso
 [sl32m]: http://ftp.nluug.nl/ibiblio/distributions/puppylinux/puppy-slacko-6.3.0/32/slacko-6.3.0.iso
