@@ -35,3 +35,9 @@ img {
 .table {
   width: auto;
 }
+.cr-image {
+  width: 90%;
+  margin: 0 auto;
+  display: block;
+  padding: 40px;
+}
