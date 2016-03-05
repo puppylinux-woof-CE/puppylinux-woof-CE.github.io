@@ -2,7 +2,7 @@
 
 $().ready(function() {
 	// Style tables - from strapdown.js
-	$('table').addClass('table table-striped table-bordered');
+	//$('table').addClass('table table-striped table-bordered');
 	
 	// update date
 	var d = new Date(document.lastModified);
