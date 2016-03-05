@@ -22,7 +22,7 @@ settled on _Open Box / FBPanel / Rox_.
 Featuring DeadBeef Music Player, URxvt Terminal (with perl support), PaleMoon
 Browser and VLC Media Player.
 
-![Screenshot of Tahrpup 6.0.5](screenshots/tahr.jpg)
+![Screenshot of Tahrpup 6.0.5](screenshots/tahr.jpg){: .cr-image }
 
 
 #### Slacko 6.3.0
@@ -30,14 +30,14 @@ Browser and VLC Media Player.
 Featuring Gnumeric, Samba Simple Management, YASSM Share Browser, Rox Filer, 
 Welcome screen and Menu.
 
-![Screenshot of Slacko 6.3.0](screenshots/slacko.jpg)
+![Screenshot of Slacko 6.3.0](screenshots/slacko.jpg){: .cr-image }
 
 
 #### Tahrpup64 6.0.5
 
 Featuring PaleMoon browser, VLC Media Player, Rox Filer and Welcome screen.
 
-![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg)
+![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg){: .cr-image }
 
 
 #### Slacko64 6.3.0
@@ -45,7 +45,7 @@ Featuring PaleMoon browser, VLC Media Player, Rox Filer and Welcome screen.
 Featuring Pmusic with Pequaliser, Firefox Browser, Gnome Mplayer and URxvt
 Terminal.
 
-![Screenshot of Slacko64 6.3.0](screenshots/slacko64.jpg)
+![Screenshot of Slacko64 6.3.0](screenshots/slacko64.jpg){: .cr-image }
 
 
 ### Puplets
@@ -59,14 +59,14 @@ years.
 Featuring Qupzilla browser, Puppy Setup, VLC Media Player, SFS Load
 and JWM / Rox desktop.
 
-![Screenshot of Librepup](screenshots/librepup.jpg)
+![Screenshot of Librepup](screenshots/librepup.jpg){: .cr-image }
 
 #### Lxpup
 
 Featuring Abiword Word Processor, Firefox Browser, Gnome Mplayer, PCManFM
 File Manager and the LXDE Desktop.
 
-![Screenshot of Lx](screenshots/lxpup.jpg)
+![Screenshot of Lx](screenshots/lxpup.jpg){: .cr-image }
 
 
 #### X-Slacko 3.1
@@ -74,6 +74,6 @@ File Manager and the LXDE Desktop.
 Featuring Firefox Browser, Gnome Mplayer, Thunar File Manager and the
 XFCE Desktop.
 
-![Screenshot of X-Slacko 3.1](screenshots/xslacko.jpg)
+![Screenshot of X-Slacko 3.1](screenshots/xslacko.jpg){: .cr-image }
 
 
