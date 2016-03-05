@@ -39,5 +39,6 @@ img {
   width: 90%;
   margin: 0 auto;
   display: block;
-  padding: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
