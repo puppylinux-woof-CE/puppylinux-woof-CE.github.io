@@ -33,6 +33,8 @@ img {
 }
 
 .table {
+  margin-left: auto;
+  margin-right: auto;
   width: auto;
 }
 .cr-image {
