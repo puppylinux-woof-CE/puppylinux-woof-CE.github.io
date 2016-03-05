@@ -16,6 +16,7 @@ updated: 4 Mar 2016
 |Librepup        |A puppy without any non-free components (FOSS)    |[Librepup Website][lib]     |
 |LxPupSc         |Puppy with the LXDE desktop                       |[LxPupSc Forum Page][lxp]   |
 |Development     |Slacko Puppy development version                 |[Slacko Dev Forum Page][sde]|
+{: .table .table-striped .table-bordered }
 
 [sla]: http://slacko.eezy.xyz
 [t32]: http://murga-linux.com/puppy/viewtopic.php?t=96178
