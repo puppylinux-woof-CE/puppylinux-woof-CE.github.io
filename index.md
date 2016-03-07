@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Puppy Linux Home
-authors: 01micko, mavrothal
-updated: 4 Mar 2016
+authors: Puppy Linux Team
+updated: unknown
 ---
 ## About Puppy Linux
 
@@ -24,7 +24,7 @@ If one of these things interest you, read on.
 
 ### Yes, but what does it look like?
 
-![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg){: .cr-image }
+[![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg){: .cr-image }](screenshots.html "Screenshot Page")
 
 
 ### First thing first
