@@ -9,7 +9,7 @@ Puppy Linux team is you! Yes, you. No, this is not a joke.
 If you are a member of the Puppy Linux community, then you are a member 
 of the Puppy Linux Team. Membership is automatic. What you choose to
 do as a member is the Team is up to you. You can choose to just use
-Puppy Linux team and do nothing else. That is fine. You can also 
+Puppy Linux and do nothing else. That is fine. You can also 
 choose to contribute back to Puppy Linux. That is also fine, but it is
 not a requirement.
 
