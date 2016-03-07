@@ -41,9 +41,47 @@ noscript p {
 	text-align: center;
 	font-size: 0.8em;
 }
-
+/*=================POPUP=======================================================
+ */
+a.hideDisplay{
+	position: relative; /* This makes everything work.*/
+	/* Allows you to layer overlapping elements. */
+	z-index: 20; 
+	color: #000;
+	text-decoration: none;
+}
+a.hideDisplay:hover{
+	/* Allows you to layer overlapping elements. */
+	cursor: help;
+	z-index: 30; 
+}
+a.hideDisplay span.showDisplayOnHover {
+	display: none;
+}
+/* This will only display itself when the
+* user hovers the mouse over the anchor. */
+a.hideDisplay:hover span.showDisplayOnHover{ 
+	display: block;
+	position: absolute;
+	/* This sets the height of a line of text in the box. */
+	line-height: 20px;
+	/* These position the box where it needs to go. */
+	top: 5px; 
+	margin-left: auto;
+	margin-right: auto;
+	/* These adjust the size of the box when it appears. */
+	width: 500px;
+	padding: 10px;
+	border: 1px solid #666666;
+	background:  rgba(78,78,78,0.85);
+	color: #FFFFEA;
+	text-align: center;
+}
 @media all and (max-width: 600px) {
 th.nav {
     width: 36px;
+}
+a.hideDisplay:hover span.showDisplayOnHover{
+	width: 300px;
 }
 }
