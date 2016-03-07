@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Puppy Linux Downloads
-authors: Puppy Linux Team
-updated: unknown
 ---
 ## Puppy Linux Downloads
 

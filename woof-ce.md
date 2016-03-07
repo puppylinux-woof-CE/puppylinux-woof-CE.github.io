@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Puppy Linux Woof-CE
-authors: Puppy Linux Team
-updated: unknown
 ---
 ## Puppy Linux Woof-CE
 

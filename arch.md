@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Puppy Linux Supported Architectures
-authors: Puppy Linux Team
-updated: unknown
 ---
 ## Puppy Linux Supported Architectures
 

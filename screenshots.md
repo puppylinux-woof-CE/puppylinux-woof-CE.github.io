@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Puppy Linux Screenshots
-authors: Puppy Linux Team
-updated: unknown
 ---
 ## Screenshots
 

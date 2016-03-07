@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Puppy Linux History
-authors: Puppy Linux Team
-updated: unknown
 ---
 ## Puppy Linux History
 

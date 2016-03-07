@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Puppy Linux Home
-authors: Puppy Linux Team
-updated: unknown
 ---
 ## About Puppy Linux
 

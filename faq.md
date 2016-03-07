@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Puppy Linux Frequently Asked Questions (FAQ)
-authors: Puppy Linux Team
-updated: unknown
 ---
 ## Puppy Linux Frequently Asked Questions (FAQ)
 
