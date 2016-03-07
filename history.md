@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Puppy Linux History
-authors: 01micko, ninaholic, mavrothal
-updated: 4 Mar 2016
+authors: Puppy Linux Team
+updated: unknown
 ---
 ## Puppy Linux History
 

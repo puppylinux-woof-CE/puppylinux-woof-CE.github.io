@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Puppy Linux Family Tree
-authors: 01micko, mavrothal
-updated: 4 Mar 2016
+authors: Puppy Linux Team
+updated: unknown
 ---
 ## Puppy Linux Family Tree
 

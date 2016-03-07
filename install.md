@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Puppy Linux Installation and Usage
-authors: 01micko, mavrothal
-updated: 4 Mar 2016
+authors: Puppy Linux Team
+updated: unknown
 ---
 ## Puppy Linux Installation and Usage
 
