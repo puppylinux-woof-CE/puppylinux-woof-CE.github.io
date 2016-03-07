@@ -8,43 +8,42 @@
 }
 #boxbar {
 	float: right;
-	height: 36px;
+	height: 32px;
+	margin-left: 1em;
 }
-.menu li{
-	display: inline-block;
+th.nav {
+    width: 84px;
 }
-.navbox { 
-	text-align:center;
-	height: 36px;
-	width: 90px;
+th.nav:hover {
+    background: #f5f5f5;
 }
-.navbox a { 
-	display:block;
-	height: 36px;
-	width: 90px;
-}
-.navbox a:hover { 
-	background: #f5f5f5;
+th.nav a {
+    display:block;
+    text-decoration:none;
 }
 .nav-icons {
 	height: 24px;
 	width: 24px;
 }
+noscript p {
+	color:#FF518E
+	border: 1px solid;
+	padding: 1em;
+	text-align: center;
+	font-size: 0.8em;
+}
 .puppy-bar-bg { 
 	margin-top: 3em;
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
+	padding-top: 2em;
+	padding-bottom: 1.5em;
+	text-align: center;
 	font-size: 0.8em;
 }
-@media all and (max-width: 768px) {
-.navbox { 
-	text-align:center;
-	height: 36px;
-	width: 40px;
-}
-.navbox a { 
-	display:block;
-	height: 36px;
-	width: 40px;
+
+@media all and (max-width: 600px) {
+th.nav {
+    width: 36px;
 }
 }
