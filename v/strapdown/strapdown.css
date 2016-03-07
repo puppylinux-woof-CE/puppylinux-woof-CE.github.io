@@ -45,5 +45,5 @@ img {
   padding-bottom: 40px;
 }
 @media screen and (-webkit-min-device-pixel-ratio:0) {
-  body { padding-top:110px; }  
+  body { padding-top: 100px; }  
 }
