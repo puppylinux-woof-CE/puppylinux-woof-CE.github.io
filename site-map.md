@@ -6,7 +6,7 @@ updated: unknown
 ---
 ## Site Map
 
-The following is a list of accesible pages on this site.
+The following is a list of accessible pages on this site.
 
 [Frequently Asked Questions (FAQ)](faq.html)
 
@@ -31,7 +31,6 @@ The following is a list of accesible pages on this site.
 ### The Puppy Linux Logo
 
 ![Puppy Logo](c/puppylogo96.png){:height="36px" width="36px"} 
-The [Puppy Linux logo](#logo) has special requirements if you are to use it.
+The [Puppy Linux logo](#logo) was adopted by Puppy Linux in 2008.
 
-Permission is given to use this logo, however it must be displayed alongside 
-a link (or link embedded in image) to [_puppylinux.com_](http://puppylinux.com).
+It was created by _rastapax_ on the Puppy Linux Discussion Forum.
