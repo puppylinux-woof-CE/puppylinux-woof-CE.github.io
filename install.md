@@ -7,7 +7,52 @@ title: Puppy Linux Installation and Usage
 The fact is that you do not need to install Puppy Linux at all! You can 
 simply [download](index.html#download) and burn it to an optical disc
 (CD, DVD, CD&plusmn;RW, DVD&plusmn;RW) or _dd_ it to an USB drive and
-boot it _live_. When you are finished you can decide to save the session
+boot it _live_. 
+
+### Burning an Optical disc or preparing a USB Drive
+
+#### Optical
+
+In any Linux, once you have downloaded the ISO image and verified its
+authenticity by checking its _md5sum_ you can burn it to a DVD or a CD
+using any Linux optical burning tool. Just make sure you burn it as an
+_image_ and not _data_ otherwise it will not be bootable.
+
+In Windows we recommend 
+[Imageburn (direct link to download)](http://www.datafilehost.com/download-fe571dfa.htm)
+to burn the image to a CD or DVD.
+
+#### USB
+
+All Linux versions come with a tool name _dd_. Our ISO images since
+2013 come as _iso hybrid_ images so they can be transferred directly to 
+the USB drive using _dd_. _Don't attempt this with older puppy versions unless 
+you know what you are doing_. Here is a simple 
+[tutorial](http://it.toolbox.com/blogs/enlightenment/howto-create-a-bootable-linux-media-using-the-dd-command-65907) 
+on using _dd_ to make a bootable USB drive. _Be very careful with your target 
+drive name!_
+
+There is a Windows version of _dd_ available on this
+[site](http://www.chrysocome.net/dd).
+
+There is also a graphical tool for Windows called _Win32 Disk Imager_.
+A download is available from 
+[this page](https://drive.google.com/folderview?id=0B_iVVJCd9q09VGZsZE5keU1vR0E&usp=sharing).
+
+#### Booting
+
+Depending on whether you have optical or USB media you may have to go into
+your computer's _BIOS Setup_ program to adjust the boot order of devices.
+You want to give your optical or USB ports priority over the harddrive.
+
+Once you have your boot media and computer set up just insert the boot
+media and switch on your computer. You will see a couple of text screens
+go past and hopefully you will boot to a shiny new _desktop_ with
+a quick setup screen followed by a welcome screen.   
+
+Now enjoy!
+
+When you are finished you can decide to save the session
 or not! Not saving the session does not leave a trace of the operating 
 system as Puppy runs entirely in RAM and as soon as the computer is
 powered off the RAM is flushed. This is ideal from a security perspective
