@@ -59,16 +59,16 @@ powered off the RAM is flushed. This is ideal from a security perspective
 for internet banking or other sensitive financial transactions performed
 over the internet.
 
-Saving the session this can be achieved in a number of ways:
+Saving the session can be achieved in a number of ways:
  
- 1. You can save the session to a harddrive or an USB drive in a vfat,
+ * You can save the session to a harddrive or an USB drive in a vfat,
     ntfs or linux<sup><a href="#part">[1]</a></sup> partition. This 
     will save all your settings to what is known as a _pupsave_
     <sup><a href="#save">[2]</a></sup> file or folder. When you boot off the 
     same media next time the _pupsave_ will be found and all your files
     and settings will be as you left them. 
  
- 2. If you booted off of optical media you can save the session and all
+ * If you booted off of optical media you can save the session and all
     settings back to that same optical disc.
     
 ### So you want to _install_ Puppy
