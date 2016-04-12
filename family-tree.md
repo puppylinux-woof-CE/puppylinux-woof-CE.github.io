@@ -123,5 +123,5 @@ existence to Puppy Linux in one way or another.
    David Purse.
  
  * Puppy Studio →  A commercial Puppy Linux derivative targeted at
-   artists, mainly musicians. Maintained by _l0wtech_.
+   artists, mainly musicians. Maintained by _l0wt3ch_.
 
