@@ -132,7 +132,7 @@ don't expect that making a lot of noises and demands will make you one.
    * Dima Krasner (_iguleder_)
    * Sigmund Berglund (_zigbert_) <br><br>
 
-3. Puppy Linux Website (this site) steward - Mick Amadio and _mavrothal_.
+3. Puppy Linux Website (this site) steward - Mick Amadio
 
 4. Puppy Linux forum - John Murga
 
