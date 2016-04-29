@@ -14,7 +14,11 @@ minded Puppy enthusiasts.
 There are also two alternative forums available, the first generously
 supplied by Raffy and the second at Linux Questions.
 
+### Main Forum
+
 [The main Puppy Linux Forum - Murga](http://www.murga-linux.com/puppy/)
+
+### Alternate Forums
 
 [The alternate Puppy Linux Forum - Raffy](http://puppylinux.info/)
 
