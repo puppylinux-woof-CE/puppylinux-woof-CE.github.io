@@ -24,7 +24,9 @@ The following is a list of accessible pages on this site.
 
 [Puppy Linux Installation](install.html)
 
-[Puppy linux Downloads](download.html)
+[Puppy Linux Downloads](download.html)
+
+[Puppy Linux Forums](forums.html)
 
 ---
 
