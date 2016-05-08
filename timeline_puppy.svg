@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="60cm" height="23cm" viewBox="1 -274 1415 442" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="73cm" height="23cm" viewBox="1 -274 1442 442" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1" y="-261">
     <tspan x="1" y="-261">2003</tspan>
   </text>
@@ -101,7 +101,7 @@
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="900.418" y="-134.814">
     <tspan x="900.418" y="-134.814">5.2.8</tspan>
   </text>
-  <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke-dasharray: 12 2.4 2.4 2.4 2.4 2.4; stroke: #0000ff" x1="1089.27" y1="-216.632" x2="1412" y2="-216.542"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke-dasharray: 12 2.4 2.4 2.4 2.4 2.4; stroke: #0000ff" x1="1089.27" y1="-216.632" x2="1383" y2="-216"/>
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1194.23" y="-225.148">
     <tspan x="1194.23" y="-225.148">5.7.0</tspan>
   </text>
@@ -109,15 +109,15 @@
     <tspan x="1289.69" y="-225.148">6.3.0</tspan>
   </text>
   <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke-dasharray: 4; stroke: #800080" x1="1144.73" y1="-125.445" x2="1229.89" y2="-41.3564"/>
-  <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke-dasharray: 10 2 2 2 2 2; stroke: #800080" x1="1226.76" y1="-43.421" x2="1412.02" y2="-43.421"/>
-  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1227.64" y="-51.3758">
-    <tspan x="1227.64" y="-51.3758">6.0</tspan>
+  <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke-dasharray: 10 2 2 2 2 2; stroke: #800080" x1="1226.76" y1="-43.421" x2="1390.83" y2="-43.25"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1226.64" y="-51.8758">
+    <tspan x="1226.64" y="-51.8758">6.0</tspan>
   </text>
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1303.83" y="-236.462">
     <tspan x="1303.83" y="-236.462"></tspan>
   </text>
-  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1301.71" y="-51.7296">
-    <tspan x="1301.71" y="-51.7296">6.0.5</tspan>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1307.71" y="-51.7296">
+    <tspan x="1307.71" y="-51.7296">6.0.5</tspan>
   </text>
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="986.344" y="-224.97">
     <tspan x="986.344" y="-224.97">Slacko</tspan>
@@ -125,14 +125,14 @@
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="982.632" y="-134.815">
     <tspan x="982.632" y="-134.815">Lupu</tspan>
   </text>
-  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1342.86" y="-50.376">
-    <tspan x="1342.86" y="-50.376">Tahrpup</tspan>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1249.86" y="-51.376">
+    <tspan x="1249.86" y="-51.376">Tahrpup</tspan>
   </text>
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="116.801" y="-25.7434">
     <tspan x="116.801" y="-25.7434">Puppy</tspan>
   </text>
   <text font-size="17.7687" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="94.338" y="-204.642">
-    <tspan x="94.338" y="-204.642">Puppy Linux Timeline</tspan>
+    <tspan x="94.338" y="-204.642">Puppy Linux Timeline v2.0 (160508)</tspan>
   </text>
   <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke-dasharray: 4; stroke: #800080" x1="882.156" y1="7.0655" x2="990.156" y2="81.5656"/>
   <g>
@@ -149,7 +149,7 @@
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1020.48" y="75.0402">
     <tspan x="1020.48" y="75.0402">Precise</tspan>
   </text>
-  <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke: #800080" x1="1285.68" y1="104.182" x2="1314.21" y2="104.18"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke: #800080" x1="1285.68" y1="104.182" x2="1384" y2="104"/>
   <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke-dasharray: 4; stroke: #800080" x1="1255.98" y1="160.165" x2="1285.68" y2="102.536"/>
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1281.96" y="95.172">
     <tspan x="1281.96" y="95.172">7.3</tspan>
@@ -283,7 +283,19 @@
     <tspan x="105.901" y="147.856">T2 Binary Compatibility (Quirky)</tspan>
   </text>
   <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke-dasharray: 8 1.6 1.6 1.6 1.6 1.6; stroke: #000000" x1="78.75" y1="48.125" x2="96.25" y2="48.125"/>
-  <text font-size="11.3339" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="105.75" y="51.625">
+  <text font-size="11.334" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="105.75" y="51.625">
     <tspan x="105.75" y="51.625">Built with Woof-CE (Stable)</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1382" y="95">
+    <tspan x="1382" y="95">Xerus</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1350" y="95">
+    <tspan x="1350" y="95">8.0</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1355" y="-51">
+    <tspan x="1355" y="-51">7.0</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1379.51" y="-50.5">
+    <tspan x="1379.51" y="-50.5">XenialPup</tspan>
   </text>
 </svg>
