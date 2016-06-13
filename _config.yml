@@ -1,2 +1,5 @@
 name: Puppy Linux
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
