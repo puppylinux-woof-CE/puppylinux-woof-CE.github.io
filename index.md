@@ -65,18 +65,18 @@ for more comprehensive information.
 
 |Compatibility \*  | Bits    | Latest Version        | Download link                                      |
 |------------------|---------|-----------------------|----------------------------------------------------|
-|Slackware 14.1    | 32-bit  | Slacko Puppy   6.3.0  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
-|Slackware64 14.1  | 64-bit  | Slacko64 Puppy 6.3.0  | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
+|Slackware 14.1    | 32-bit  | Slacko Puppy   6.3.2  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
+|Slackware64 14.1  | 64-bit  | Slacko64 Puppy 6.3.2  | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
 |Ubuntu Tahr       | 32-bit  | Tahrpup 6.0.5         | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
 |Ubuntu Tahr 64    | 64-bit  | Tahrpup64 6.0.5       | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
 {: .table .table-striped .table-bordered }
 
-[sl32]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.0/32/slacko-6.3.0.iso
-[sl32m]: http://ftp.nluug.nl/ibiblio/distributions/puppylinux/puppy-slacko-6.3.0/32/slacko-6.3.0.iso
-[sl32c]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.0/32/slacko-6.3.0.iso.md5.txt
-[sl64]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.0/64/slacko64-6.3.0.iso
-[sl64m]: http://ftp.nluug.nl/ibiblio/distributions/puppylinux/puppy-slacko-6.3.0/64/slacko64-6.3.0.iso
-[sl64c]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.0/64/slacko64-6.3.0.iso.md5.txt
+[sl32]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso
+[sl32m]: http://ftp.nluug.nl/ibiblio/distributions/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso
+[sl32c]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso.md5.txt
+[sl64]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/64/slacko64-6.3.2-uefi.iso
+[sl64m]: http://ftp.nluug.nl/ibiblio/distributions/puppylinux/puppy-slacko-6.3.2/64/slacko64-6.3.2-uefi.iso
+[sl64c]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/64/slacko64-6.3.2-uefi.iso.md5.txt
 [ta32]: http://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0.5_PAE.iso
 [ta32m]: http://ftp.nluug.nl/ibiblio/distributions/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0.5_PAE.iso
 [ta32c]: http://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0.5_PAE.iso.md5.txt
