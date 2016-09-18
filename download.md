@@ -14,6 +14,7 @@ title: Puppy Linux Downloads
 |Librepup        |A puppy without any non-free components (FOSS)    |[Librepup Website][lib]     |
 |LxPupSc         |Puppy with the LXDE desktop                       |[LxPupSc Forum Page][lxp]   |
 |Development     |Slacko Puppy development version                 |[Slacko Dev Forum Page][sde]|
+|Development     |Xenial Puppy development version                 |[Xenial Dev Forum Page][xen]|
 {: .table .table-striped .table-bordered }
 
 [sla]: http://slacko.eezy.xyz
@@ -21,7 +22,8 @@ title: Puppy Linux Downloads
 [t64]: http://murga-linux.com/puppy/viewtopic.php?t=96748
 [lib]: http://librepup.info/
 [lxp]: http://murga-linux.com/puppy/viewtopic.php?t=101527
-[sde]: http://murga-linux.com/puppy/viewtopic.php?t=101827
+[sde]: http://murga-linux.com/puppy/viewtopic.php?t=108017
+[xen]: http://murga-linux.com/puppy/viewtopic.php?t=106479
 
 <br/>
 
