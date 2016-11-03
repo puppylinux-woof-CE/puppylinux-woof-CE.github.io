@@ -11,7 +11,6 @@ title: Puppy Linux Downloads
 |Slacko          |slackware-compatible Official Puppy (32 and 64bit)|[Slacko Website][sla]       |
 |Tahrpup         |UbuntuLTS-compatible Official Puppy               |[Tahrpup Forum Page][t32]   |
 |Tahrpup64       |64 bit UbuntuLTS-compatible Official Puppy        |[Tahrpup64 Forum Page][t64] |
-|Librepup        |A puppy without any non-free components (FOSS)    |[Librepup Website][lib]     |
 |LxPupSc         |Puppy with the LXDE desktop                       |[LxPupSc Forum Page][lxp]   |
 |Development     |Slacko Puppy development version                 |[Slacko Dev Forum Page][sde]|
 |Development     |Xenial Puppy development version                 |[Xenial Dev Forum Page][xen]|
@@ -20,7 +19,6 @@ title: Puppy Linux Downloads
 [sla]: http://slacko.eezy.xyz
 [t32]: http://murga-linux.com/puppy/viewtopic.php?t=96178
 [t64]: http://murga-linux.com/puppy/viewtopic.php?t=96748
-[lib]: http://librepup.info/
 [lxp]: http://murga-linux.com/puppy/viewtopic.php?t=101527
 [sde]: http://murga-linux.com/puppy/viewtopic.php?t=108017
 [xen]: http://murga-linux.com/puppy/viewtopic.php?t=106479
