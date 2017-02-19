@@ -106,6 +106,7 @@ or just plain chit-chat, we welcome you to join us at
  3. [Puppy Linux Team][team]
  4. [Puppy Linux Build System (_Woof-CE_)][woof-ce]
  5. [Screenshots!][screen]
+ 6. [Newsletters] [newsletter]
 
 [faq]: faq.html
 [woof-ce]: woof-ce.html
@@ -113,3 +114,4 @@ or just plain chit-chat, we welcome you to join us at
 [team]: team.html
 [family-tree]: family-tree.html
 [screen]: screenshots.html
+[newsletter]: http://smokey01.com/newsletters/
