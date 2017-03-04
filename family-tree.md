@@ -110,9 +110,9 @@ existence to Puppy Linux in one way or another.
  
  * Debian Dog → Adaptation of Debian Live-CD to make it behave like
    Puppy Linux. Originally started by forum member _sickgut_ as a proof
-   that any normal distribution can be molded to behave like Puppy Linux,
-   it was later renamed to Debian Dog by its current maintainer
-   (Toni aka _saintless_).
+   that any normal distribution can be molded to behave like Puppy Linux;
+   it was later renamed to Debian Dog by Toni (aka _saintless_) and
+   now managed by _fredx181_, its current maintainer.
  
  * Fatdog → Forked from Puppy Linux 4.0. Fatdog is notable in being
    the first Puppy-Linux like distribution that went fully 64-bit in
