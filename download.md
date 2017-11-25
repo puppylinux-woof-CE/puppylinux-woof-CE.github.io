@@ -6,15 +6,16 @@ title: Puppy Linux Downloads
 
 ### These are the latest woof-CE built puppies
 
-|  Name          |       Description                                | More Info                  |
-|----------------|--------------------------------------------------|----------------------------|
-|Slacko          |slackware-compatible Official Puppy (32 and 64bit)|[Slacko Website][sla]       |
-|Tahrpup         |UbuntuLTS-compatible Official Puppy               |[Tahrpup Forum Page][t32]   |
-|Tahrpup64       |64 bit UbuntuLTS-compatible Official Puppy        |[Tahrpup64 Forum Page][t64] |
-|LxPupSc         |Puppy with the LXDE desktop                       |[LxPupSc Forum Page][lxp]   |
-|ArtfulPup       |Ubuntu17.10-compatible Puppy (32 bit)             |[ArtfulPup Forum Page][uap] |
-|Development     |Slacko Puppy development version                 |[Slacko Dev Forum Page][sde]|
-|Development     |Xenial Puppy development version                 |[Xenial Dev Forum Page][xen]|
+|  Name          |       Description                                | More Info                   |
+|----------------|--------------------------------------------------|-----------------------------|
+|XenialPup       |UbuntuLTS-compatible Official Puppy               |[Xenialpup Forum Page][xen]  |
+|XenialPup64     |64bit UbuntuLTS-compatible Official Puppy         |[Xenialpup64 Forum Page][x64]|
+|Slacko          |slackware-compatible Official Puppy (32 and 64bit)|[Slacko Website][sla]        |
+|Tahrpup         |UbuntuLTS-compatible Official Puppy               |[Tahrpup Forum Page][t32]    |
+|Tahrpup64       |64 bit UbuntuLTS-compatible Official Puppy        |[Tahrpup64 Forum Page][t64]  |
+|LxPupSc         |Puppy with the LXDE desktop                       |[LxPupSc Forum Page][lxp]    |
+|ArtfulPup       |Ubuntu17.10-compatible Puppy (32 bit)             |[ArtfulPup Forum Page][uap]  |
+|Development     |Slacko Puppy development version                  |[Slacko Dev Forum Page][sde] |
 {: .table .table-striped .table-bordered }
 
 [sla]: http://slacko.eezy.xyz
@@ -23,6 +24,7 @@ title: Puppy Linux Downloads
 [lxp]: http://murga-linux.com/puppy/viewtopic.php?t=101527
 [sde]: http://murga-linux.com/puppy/viewtopic.php?t=108017
 [xen]: http://murga-linux.com/puppy/viewtopic.php?t=106479
+[x64]: http://murga-linux.com/puppy/viewtopic.php?t=107331
 [uap]: http://murga-linux.com/puppy/viewtopic.php?t=111735
 
 <br/>
