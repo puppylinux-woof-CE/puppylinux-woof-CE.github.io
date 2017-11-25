@@ -65,6 +65,8 @@ for more comprehensive information.
 
 |Compatibility \*  | Bits    | Latest Version        | Download link                                      |
 |------------------|---------|-----------------------|----------------------------------------------------|
+|Ubuntu Xenial     | 32-bit  | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
+|Ubuntu Xenial 64  | 64-bit  | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
 |Slackware 14.1    | 32-bit  | Slacko Puppy   6.3.2  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
 |Slackware64 14.1  | 64-bit  | Slacko64 Puppy 6.3.2  | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
 |Ubuntu Tahr       | 32-bit  | Tahrpup 6.0.5         | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
@@ -83,6 +85,13 @@ for more comprehensive information.
 [ta64]: http://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup64-6.0.5/tahr64-6.0.5.iso
 [ta64m]: http://ftp.nluug.nl/ibiblio/distributions/puppylinux/puppy-tahr/iso/tahrpup64-6.0.5/tahr64-6.0.5.iso
 [ta64c]: http://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup64-6.0.5/tahr64-6.0.5.iso.md5.txt
+
+[xe32]: http://distro.ibiblio.org/puppylinux/puppy-xenial/32/xenialpup-7.5-uefi.iso
+[xe32m]: http://ftp.nluug.nl/ibiblio/distributions/puppylinux/puppy-xenial/32/xenialpup-7.5-uefi.iso
+[xe32c]: http://distro.ibiblio.org/puppylinux/puppy-xenial/32/xenialpup-7.5-uefi.iso.md5&sha256.txt
+[xe64]: http://distro.ibiblio.org/puppylinux/puppy-xenial/64/xenialpup64-7.5-uefi.iso
+[xe64m]: http://ftp.nluug.nl/ibiblio/distributions/puppylinux/puppy-xenial/64/xenialpup64-7.5-uefi.iso
+[xe64c]: http://distro.ibiblio.org/puppylinux/puppy-xenial/64/xenialpup64-7.5-uefi.iso.md5&sha256.txt
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
 > and components from another Linux distribution called in Puppy the _"binary compatible"_
