@@ -11,7 +11,7 @@ Puppy Linux is a unique family of Linux distributions meant for the home-user co
 
  1. Ready to use → all tools for common daily computing usage already included.
  2. Ease of use → grandpa-friendly certified ™
- 3. Relatively small size → 200 MB or less.
+ 3. Relatively small size → 300 MB or less.
  4. Fast and versatile.
  5. Customisable within minutes → remasters.
  6. Different flavours → optimised to support older computers, newer computers.
@@ -85,7 +85,6 @@ for more comprehensive information.
 [ta64]: http://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup64-6.0.5/tahr64-6.0.5.iso
 [ta64m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-tahr/iso/tahrpup64-6.0.5/tahr64-6.0.5.iso
 [ta64c]: http://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup64-6.0.5/tahr64-6.0.5.iso.md5.txt
-
 [xe32]: http://distro.ibiblio.org/puppylinux/puppy-xenial/32/xenialpup-7.5-uefi.iso
 [xe32m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-xenial/32/xenialpup-7.5-uefi.iso
 [xe32c]: http://distro.ibiblio.org/puppylinux/puppy-xenial/32/xenialpup-7.5-uefi.iso.md5&sha256.txt
