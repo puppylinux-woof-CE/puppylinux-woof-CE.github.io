@@ -14,7 +14,7 @@ title: Puppy Linux Downloads
 |Tahrpup         |UbuntuLTS-compatible Official Puppy               |[Tahrpup Forum Page][t32]    |
 |Tahrpup64       |64 bit UbuntuLTS-compatible Official Puppy        |[Tahrpup64 Forum Page][t64]  |
 |LxPupSc         |Puppy with the LXDE desktop                       |[LxPupSc Forum Page][lxp]    |
-|ArtfulPup       |Ubuntu17.10-compatible Puppy (32 bit)             |[ArtfulPup Forum Page][uap]  |
+|UPupBB          |Ubuntu18.04 Bionic-compatible Puppy (32 bit)      |[UPupBB Forum Page][ubp]  |
 |Development     |Slacko Puppy development version                  |[Slacko Dev Forum Page][sde] |
 {: .table .table-striped .table-bordered }
 
@@ -25,7 +25,7 @@ title: Puppy Linux Downloads
 [sde]: http://murga-linux.com/puppy/viewtopic.php?t=108017
 [xen]: http://murga-linux.com/puppy/viewtopic.php?t=106479
 [x64]: http://murga-linux.com/puppy/viewtopic.php?t=107331
-[uap]: http://murga-linux.com/puppy/viewtopic.php?t=111735
+[ubp]: http://murga-linux.com/puppy/viewtopic.php?t=113244
 
 <br/>
 
