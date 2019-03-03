@@ -6,26 +6,35 @@ title: Puppy Linux Downloads
 
 ### These are the latest woof-CE built puppies
 
+See: Official Pup build recipes at [Woof-CE on GITHUB]
+
 |  Name          |       Description                                | More Info                   |
 |----------------|--------------------------------------------------|-----------------------------|
-|XenialPup       |UbuntuLTS-compatible Official Puppy               |[Xenialpup Forum Page][xen]  |
-|XenialPup64     |64bit UbuntuLTS-compatible Official Puppy         |[Xenialpup64 Forum Page][x64]|
-|Slacko          |slackware-compatible Official Puppy (32 and 64bit)|[Slacko Website][sla]        |
-|Tahrpup         |UbuntuLTS-compatible Official Puppy               |[Tahrpup Forum Page][t32]    |
-|Tahrpup64       |64 bit UbuntuLTS-compatible Official Puppy        |[Tahrpup64 Forum Page][t64]  |
-|LxPupSc         |Puppy with the LXDE desktop                       |[LxPupSc Forum Page][lxp]    |
-|UPupBB          |Ubuntu18.04 Bionic-compatible Puppy (32 bit)      |[UPupBB Forum Page][ubp]  |
-|Development     |Slacko Puppy development version                  |[Slacko Dev Forum Page][sde] |
+|UPupBB          |UbuntuLTS18.04 compatible Pup (32bit)             |[UPupBB Forum Page][ubb]     |
+|BionicPup64     |UbuntuLTS18.04 compatible Pup (64bit)             |[Bionicpup64 Forum Page][b64]|
+|XenialPup       |UbuntuLTS16.04 compatible Official Pup (32bit)    |[Xenialpup Forum Page][x32]  |
+|XenialPup64     |UbuntuLTS16.04 compatible Official Pup (64bit)    |[Xenialpup64 Forum Page][x64]|
+|Tahrpup         |UbuntuLTS14.04 compatible Official Pup (32bit)    |[Tahrpup Forum Page][t32]    |
+|Tahrpup64       |UbuntuLTS14.04 compatible Official Pup (64bit)    |[Tahrpup64 Forum Page][t64]  |
+|ScPup           |SlackwareCurrent compatible Pup (32 & 64bit)      |[ScPup Forum Page][slc]      |
+|Slacko14.2      |Slackware14.2 compatible Pup (32 & 64bit)         |[Slacko14.2 Forum Page][slb] |
+|Slacko14.1      |Slackware14.1 compatible Official Pup (32 & 64bit)|[Slacko Website][sla]        |
+|LxPupSc         |SlackwareCurrent Pup with LXDE (32 & 64bit)       |[LxPupSc Forum Page][lxp]    |
+|DPupStretch     |DebianStretch compatible Pup (32bit)              |[DPupStretch Forum Page][dps]|
 {: .table .table-striped .table-bordered }
 
+[Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
 [sla]: http://slacko.eezy.xyz
 [t32]: http://murga-linux.com/puppy/viewtopic.php?t=96178
 [t64]: http://murga-linux.com/puppy/viewtopic.php?t=96748
 [lxp]: http://murga-linux.com/puppy/viewtopic.php?t=101527
-[sde]: http://murga-linux.com/puppy/viewtopic.php?t=108017
-[xen]: http://murga-linux.com/puppy/viewtopic.php?t=106479
+[slb]: http://murga-linux.com/puppy/viewtopic.php?t=108017
+[x32]: http://murga-linux.com/puppy/viewtopic.php?t=106479
 [x64]: http://murga-linux.com/puppy/viewtopic.php?t=107331
-[ubp]: http://murga-linux.com/puppy/viewtopic.php?t=113244
+[ubb]: http://murga-linux.com/puppy/viewtopic.php?t=113244
+[b64]: http://murga-linux.com/puppy/viewtopic.php?t=114311
+[slc]: http://murga-linux.com/puppy/viewtopic.php?t=114980
+[dps]: http://murga-linux.com/puppy/viewtopic.php?t=112125
 
 <br/>
 
