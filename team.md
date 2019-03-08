@@ -123,14 +123,21 @@ don't expect that making a lot of noises and demands will make you one.
    Also responsible for puppylinux.com domain as well as main Puppy
    Linux distribution site in ibiblio.org
    
-2. Woof-CE stewards - they are the people who decides whether a proposed
-   commit is accepted into Woof-CE. They usually hold commit rights to
-   Woof-CE, although not all of committers are considered as Woof-CE 
-   stewards. <br>
+2. Woof-CE members - are the people who decide whether a proposed
+   change is accepted into Woof-CE. They hold commit rights to
+   Woof-CE and contributed most of the code that is currently in 
+   Woof-CE and the other puppylinux-woof-CE [repositories](https://github.com/puppylinux-woof-CE) <br>
    * Mick Amadio (_01micko_)
-   * _mavrothal_
+   * Sigmund Berglund (_zigbert_) 
+   * Philip Broughton (_mrfricks_)
    * Dima Krasner (_iguleder_)
-   * Sigmund Berglund (_zigbert_) <br><br>
+   * _gyrog_
+   * _JakeSFR_
+   * _jamesbond3142_
+   * _mavrothal_
+   * _PB peabee_
+   * _pemasu_
+   * _wdlkmpx_<br><br>
 
 3. Puppy Linux Website (this site) steward - Mick Amadio
 
