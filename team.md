@@ -135,7 +135,7 @@ don't expect that making a lot of noises and demands will make you one.
    * _JakeSFR_
    * _jamesbond3142_
    * _mavrothal_
-   * _PB peabee_
+   * _peebee / peabee_
    * _pemasu_
    * _wdlkmpx_<br><br>
 
