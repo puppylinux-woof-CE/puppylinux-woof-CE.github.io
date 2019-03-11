@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Puppy Linux Screenshots
+youtubeId: qibxDA_Kxdk
 ---
 ## Screenshots
 
@@ -19,6 +20,7 @@ settled on _Open Box / FBPanel / Rox_.
 
 Check puppylinux 8 in action in this youtube [video](https://www.youtube.com/watch?v=qibxDA_Kxdk)
 
+{% include youtubePlayer.html id=page.youtubeId %}
 
 #### Tahrpup 6.0.5
 
