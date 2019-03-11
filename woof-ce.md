@@ -169,7 +169,7 @@ puppies, they must be merged back to the original Woof-CE repository.
 To merge that, you need to send a patch or better yet a pull request
 to the Woof-CE repository.
 
-The [Woof-CE stewards](team.html#stewards) will then consider your 
+The [Woof-CE members](team.html#stewards) will then consider your 
 request and merge them if they feel that your changes are beneficial 
 for everyone. If your patch is not accepted, don't feel bad. Often
 it is just a little changes you need to apply before resubmitting
