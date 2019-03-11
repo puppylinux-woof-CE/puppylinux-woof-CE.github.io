@@ -105,7 +105,7 @@ the software itself, but from the community that gathers around it.
 Whatever you have in mind - praises, curses, questions, suggestions,
 or just plain chit-chat, we welcome you to join us at 
 [Puppy Linux Forum](http://murga-linux.com/puppy) or just check 
-the [discussions][download] for the latest official puppylinux builds.
+the [discussions][download] for the latest puppylinux woof builds.
 
 
 ### I need more info before deciding to try ...
