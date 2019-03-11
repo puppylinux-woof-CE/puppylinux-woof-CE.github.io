@@ -104,7 +104,9 @@ It has been said that the best experience of Puppy Linux is not from
 the software itself, but from the community that gathers around it.
 Whatever you have in mind - praises, curses, questions, suggestions,
 or just plain chit-chat, we welcome you to join us at 
-[Puppy Linux Forum](http://murga-linux.com/puppy).
+[Puppy Linux Forum](http://murga-linux.com/puppy) or just check 
+the [discussions][download] for the latest official puppylinux builds.
+
 
 ### I need more info before deciding to try ...
 
@@ -122,4 +124,5 @@ or just plain chit-chat, we welcome you to join us at
 [team]: team.html
 [family-tree]: family-tree.html
 [screen]: screenshots.html
+[download]: download.html
 [newsletter]: http://smokey01.com/newsletters/
