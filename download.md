@@ -4,7 +4,7 @@ title: Puppy Linux Downloads
 ---
 ## Puppy Linux Downloads
 
-### These are the latest woof-CE built puppies
+### These are the latest woof-CE built puppies and their discussion thread
 
 See: Official Pup build recipes at [Woof-CE on GITHUB]
 
