@@ -130,6 +130,7 @@ don't expect that making a lot of noises and demands will make you one.
    * Mick Amadio (_01micko_)
    * Sigmund Berglund (_zigbert_) 
    * Philip Broughton (_mrfricks_)
+   * Richard Erwin (_rserwin1_)
    * Dima Krasner (_iguleder_)
    * _gyrog_
    * _JakeSFR_
