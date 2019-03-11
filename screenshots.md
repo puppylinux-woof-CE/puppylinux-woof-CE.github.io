@@ -17,8 +17,8 @@ settled on _Open Box / FBPanel / Rox_.
 
 #### Chech the action
 
-Check puppylinux 8 in action in this youtube [video](https://www.youtube.com/embed/qibxDA_Kxdk)
-<iframe width="640" height="360" src="https://www.youtube.com/embed/qibxDA_Kxdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope" allowfullscreen></iframe>
+Check puppylinux 8 in action in this youtube [video](https://www.youtube.com/watch?v=qibxDA_Kxdk)
+
 
 #### Tahrpup 6.0.5
 
