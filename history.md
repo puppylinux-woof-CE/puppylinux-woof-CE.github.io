@@ -224,7 +224,7 @@ Updates were released for almost a year making it very well supported.
 It proved to be the most popular of Barry's offerings in the 5
 series and still has its fan base today.
 
-### Series 6.x - the current series
+### Series 6.x
 
 Series 6.x Puppy is a fully community effort.
 
@@ -333,7 +333,7 @@ Puppy.
 
 These are distributions which are inspired in one way or another, from
 Puppy Linux. We consider them as a "derivative" in spirit, in idea.
-We call them as "offshots" to differentiate them from puplets, which 
+We call them as "_offshots_" to differentiate them from puplets, which 
 is a true derivative.
 
 Some of these offshots are forks of Puppy. Fatdog64, for example, was
@@ -364,15 +364,14 @@ Many of their developers and maintainers cross-post and comments on
 distributions different than their own. 
 Many users of these distributions hop from one to another, and talk about
 them as if they are all Puppy. 
-
-Indeed, in spirit, they all are. _**All**_ of these distribution
+Indeed, _in spirit_, they all are. _**All**_ of these distribution
 developers and maintainers were Puppy Linux users in the past,
 who decided to improve it on their own, one way or another.
 
 
 As such, it is just natural to consider them as part of the larger 
 Puppy Linux community. This larger group is called as Puppy Linux family
-distributions: it includes all of the official/CE releases, puplets, 
+distributions: it includes all of the Puppy Linux distribution releases, puplets, 
 and these offshots too.
 
 
@@ -382,5 +381,5 @@ and these offshots too.
 If you have read it this far, you may also be interested to know
 more about various Puppy Linux distributions that have been released
 in the past, and their relationship to one another. Head on to 
-[Puppy Linux Family Tree](family-tree.html) to satisfy your curiosity.
+[Puppy Linux Family Tree][family-tree] to satisfy your curiosity.
 
