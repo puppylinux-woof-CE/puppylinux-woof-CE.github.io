@@ -4,10 +4,10 @@ title: Puppy Linux History
 ---
 ## Puppy Linux History
 
-Puppy Linux was originally created by [Barry Kauler](http://barryk.org/news) 
+Puppy Linux was originally created by [Barry Kauler](http://bkhome.org/news) 
 in 2003, as a smaller, leaner version of Vector Linux. 
 
-From the beginning, the idea was to make a small, lean, yet 
+From the [beginning](http://bkhome.org/archive/puppylinux/about.htm), the idea was to make a small, lean, yet 
 complete edition of Linux distribution that was useful from the get-go: 
 the downloaded ISO contains all the standard applications to handle usual
 computing needs: word processor, spreadsheet, and web browser.
