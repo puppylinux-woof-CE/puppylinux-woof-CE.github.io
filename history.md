@@ -381,5 +381,5 @@ and these offshots too.
 If you have read it this far, you may also be interested to know
 more about various Puppy Linux distributions that have been released
 in the past, and their relationship to one another. Head on to 
-[Puppy Linux Family Tree][family-tree] to satisfy your curiosity.
+[Puppy Linux Family Tree](family-tree.html) to satisfy your curiosity.
 
