@@ -20,7 +20,7 @@ Puppy Linux is a unique family of Linux distributions meant for the home-user co
 If one of these things interest you, read on.
 
 
-### Yes, but what does it look like?
+### Yes, but what does it [looks and feels like][screenshots]?
 
 [![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg){: .cr-image }](screenshots.html "Screenshot Page")
 
