@@ -16,9 +16,9 @@ There has been a couple of exceptions to this rule, notably when Lupu's
 developer Larry Short decided to try _IceWM / Rox_ combination but ultimately
 settled on _Open Box / FBPanel / Rox_.
 
-#### Chech the action
+#### Check the action
 
-Check puppylinux 8 in action in this youtube [video](https://www.youtube.com/watch?v=qibxDA_Kxdk)
+Check **puppylinux 8** in action in this youtube [video](https://www.youtube.com/watch?v=qibxDA_Kxdk)
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
