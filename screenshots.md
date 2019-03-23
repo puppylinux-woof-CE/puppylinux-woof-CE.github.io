@@ -22,6 +22,14 @@ Check **puppylinux 8** in action in this youtube [video](https://www.youtube.com
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+#### Bionicpup64 8.0
+
+Featuring Home Bank finnancial tracking, PaleMoon
+Browser and an updated version of Rox File file manager.
+
+![Screenshot of Bionicpup64 8.0](screenshots/bionicpup64.jpg){: .cr-image }
+
+
 #### Tahrpup 6.0.5
 
 Featuring DeadBeef Music Player, URxvt Terminal (with perl support), PaleMoon
