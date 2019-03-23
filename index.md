@@ -65,6 +65,7 @@ for more comprehensive information.
 
 |Compatibility \*  | Bits    | Latest Version        | Download link                                      |
 |------------------|---------|-----------------------|----------------------------------------------------|
+|Ubuntu Bionic 64  | 64-bit  | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
 |Ubuntu Xenial     | 32-bit  | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
 |Ubuntu Xenial 64  | 64-bit  | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
 |Slackware 14.1    | 32-bit  | Slacko Puppy   6.3.2  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
@@ -91,6 +92,9 @@ for more comprehensive information.
 [xe64]: http://distro.ibiblio.org/puppylinux/puppy-xenial/64/xenialpup64-7.5-uefi.iso
 [xe64m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-xenial/64/xenialpup64-7.5-uefi.iso
 [xe64c]: http://distro.ibiblio.org/puppylinux/puppy-xenial/64/xenialpup64-7.5-uefi.iso.md5&sha256.txt
+[bi64]: http://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup64/bionicpup64-8.0-uefi.iso
+[bi64m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bionic/bionicpup64/bionicpup64-8.0-uefi.iso
+[bi64c]: http://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup64/bionicpup64-8.0-uefi.iso.md5.txt
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
 > and components from another Linux distribution called in Puppy the _"binary compatible"_
