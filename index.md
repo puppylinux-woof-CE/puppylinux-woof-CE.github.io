@@ -65,7 +65,7 @@ for more comprehensive information.
 
 |Compatibility \*  | Bits    | Latest Version        | Download link                                      |
 |------------------|---------|-----------------------|----------------------------------------------------|
-|Ubuntu Bionic     | 32-bit  | BionicPup 8.0         | [Main][bi32] - [Mirror][bi32m] - [Checksum][bi32c] |
+|Ubuntu Bionic     | 32-bit  | BionicPup32 8.0       | [Main][bi32] - [Mirror][bi32m] - [Checksum][bi32c] |
 |Ubuntu Bionic 64  | 64-bit  | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
 |Ubuntu Xenial     | 32-bit  | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
 |Ubuntu Xenial 64  | 64-bit  | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
