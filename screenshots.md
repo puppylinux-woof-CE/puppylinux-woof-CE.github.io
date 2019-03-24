@@ -24,7 +24,7 @@ Check **puppylinux 8** in action in this youtube [video](https://www.youtube.com
 
 #### Bionicpup64 8.0
 
-Featuring Home Bank finnancial tracking, PaleMoon
+Featuring Home Bank financial tracking, PaleMoon
 Browser and an updated version of Rox File file manager.
 
 ![Screenshot of Bionicpup64 8.0](screenshots/bionicpup64.jpg){: .cr-image }

@@ -10,7 +10,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 
 |  Name          |       Description                                | More Info                   |
 |----------------|--------------------------------------------------|-----------------------------|
-|UPupBB          |UbuntuLTS18.04 compatible Pup (32bit)             |[UPupBB Forum Page][ubb]     |
+|BionicPup32     |UbuntuLTS18.04 compatible Pup (32bit)             |[BionicPup32 Forum Page][b32]|
 |BionicPup64     |UbuntuLTS18.04 compatible Pup (64bit)             |[Bionicpup64 Forum Page][b64]|
 |XenialPup       |UbuntuLTS16.04 compatible Official Pup (32bit)    |[Xenialpup Forum Page][x32]  |
 |XenialPup64     |UbuntuLTS16.04 compatible Official Pup (64bit)    |[Xenialpup64 Forum Page][x64]|
@@ -31,7 +31,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 [slb]: http://murga-linux.com/puppy/viewtopic.php?t=108017
 [x32]: http://murga-linux.com/puppy/viewtopic.php?t=106479
 [x64]: http://murga-linux.com/puppy/viewtopic.php?t=107331
-[ubb]: http://murga-linux.com/puppy/viewtopic.php?t=113244
+[b32]: http://murga-linux.com/puppy/viewtopic.php?t=113244
 [b64]: http://murga-linux.com/puppy/viewtopic.php?t=114311
 [slc]: http://murga-linux.com/puppy/viewtopic.php?t=114980
 [dps]: http://murga-linux.com/puppy/viewtopic.php?t=112125
