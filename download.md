@@ -10,8 +10,8 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 
 |  Name          |       Description                                | More Info                   |
 |----------------|--------------------------------------------------|-----------------------------|
-|BionicPup32     |UbuntuLTS18.04 compatible Pup (32bit)             |[BionicPup32 Forum Page][b32]|
-|BionicPup64     |UbuntuLTS18.04 compatible Pup (64bit)             |[Bionicpup64 Forum Page][b64]|
+|BionicPup32     |UbuntuLTS18.04 compatible Official Pup (32bit)    |[BionicPup32 Forum Page][b32]|
+|BionicPup64     |UbuntuLTS18.04 compatible Official Pup (64bit)    |[Bionicpup64 Forum Page][b64]|
 |XenialPup       |UbuntuLTS16.04 compatible Official Pup (32bit)    |[Xenialpup Forum Page][x32]  |
 |XenialPup64     |UbuntuLTS16.04 compatible Official Pup (64bit)    |[Xenialpup64 Forum Page][x64]|
 |Tahrpup         |UbuntuLTS14.04 compatible Official Pup (32bit)    |[Tahrpup Forum Page][t32]    |
