@@ -134,3 +134,9 @@ the [discussions][download] for the latest puppylinux woof builds.
 [screen]: screenshots.html
 [download]: download.html
 [newsletter]: http://smokey01.com/newsletters/
+
+
+
+<p align="center">
+ <a href="https://distrowatch.com/table.php?distribution=puppy">DistroWatch Rankings</a>
+</p>
