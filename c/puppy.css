@@ -91,6 +91,9 @@ th.nav {
 li.nav {
     width: 44px;
 }
+.nav-icons {
+	margin-left: 10px;
+}
 a.hideDisplay:hover span.showDisplayOnHover{
 	width: 300px;
 }
