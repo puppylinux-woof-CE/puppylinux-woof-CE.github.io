@@ -100,7 +100,7 @@ title: Puppy Linux Frequently Asked Questions (FAQ)
  - **Q**: Is Quirky Linux considered as Puppy Linux? It is also made by 
    Barry.<br>
    **A**: No, Barry himself has stated multiple times that 
-   [Quirky is not Puppy](http://barryk.org/news/?viewDetailed=00266).
+   [Quirky is not Puppy](http://bkhome.org/tag_linux.html).
    Just like DebianDog, Quirky is a member of Puppy Linux family.
  
  - **Q**: Is Fatdog64 considered as Puppy Linux? <br>

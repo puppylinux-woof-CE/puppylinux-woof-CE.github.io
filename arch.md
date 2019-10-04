@@ -144,6 +144,4 @@ Feel free to "ask away" on the
 
 [Atom Processors](https://en.wikipedia.org/wiki/List_of_Intel_Atom_microprocessors)
 
-[What is UEFI](http://windows.microsoft.com/en-AU/windows-8/what-uefi)
-
 [About UEFI](http://www.uefi.org/about)
