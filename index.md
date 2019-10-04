@@ -22,7 +22,7 @@ If one of these things interest you, read on.
 
 ### Yes, but what does it [look and feel like](screenshots.html "Screenshot Page")?
 
-[![Screenshot of Tahrpup64 6.0.5](screenshots/tahr64.jpg){: .cr-image }](screenshots.html "Screenshot Page")
+[![Screenshot of BionicPup64 8.0](screenshots/bionicpup64.jpg){: .cr-image }](screenshots.html "Screenshot Page")
 
 
 ### First thing first
