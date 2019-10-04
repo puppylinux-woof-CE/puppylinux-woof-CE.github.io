@@ -88,6 +88,9 @@ a.hideDisplay:hover span.showDisplayOnHover{
 th.nav {
     width: 36px;
 }
+li.nav {
+    width: 44px;
+}
 a.hideDisplay:hover span.showDisplayOnHover{
 	width: 300px;
 }
