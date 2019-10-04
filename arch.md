@@ -99,6 +99,18 @@ there first that "amd64" caught on.
 _ia64_ is a completely different instruction set for Intel Itanium processors
 which Puppy _does not_ support.
 
+### arm
+
+**arm** processors are likely to be found in embedded systems such as routers,
+TVs, appliances and mobile phones.
+
+There are many different arm architectures and not all are compatible; armel,
+armhf, armv6l, armv7l, even 64 bit aarch64 or arm64.
+
+Puppy now has beta support for armhf on the [Raspberry Pi](https://www.raspberrypi.org) family
+of computers, from pi zero and the original pi 1 to the latest pi 4. See [the Puppy Forum](http://murga-linux.com/puppy/viewtopic.php?t=116841)
+for more details.
+
 ### BIOS and UEFI
 
 BIOS (Basic Input/Output System) based computers have been around for a long
@@ -145,3 +157,5 @@ Feel free to "ask away" on the
 [Atom Processors](https://en.wikipedia.org/wiki/List_of_Intel_Atom_microprocessors)
 
 [About UEFI](http://www.uefi.org/about)
+
+[WhatIS - ARM](https://whatis.techtarget.com/definition/ARM-processor)
