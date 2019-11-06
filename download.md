@@ -21,6 +21,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 |Slacko14.1      |Slackware14.1 compatible Official Pup (32 & 64bit)|[Slacko Website][sla]        |
 |LxPupSc         |SlackwareCurrent Pup with LXDE (32 & 64bit)       |[LxPupSc Forum Page][lxp]    |
 |DPupStretch     |DebianStretch compatible Pup (32bit)              |[DPupStretch Forum Page][dps]|
+|DpupBuster      |DebianBuster compatible Pup (32 & 64bit)          |[DpupBuster Forum Page][dpb] |
 {: .table .table-striped .table-bordered }
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
@@ -35,6 +36,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 [b64]: http://murga-linux.com/puppy/viewtopic.php?t=114311
 [slc]: http://murga-linux.com/puppy/viewtopic.php?t=114980
 [dps]: http://murga-linux.com/puppy/viewtopic.php?t=112125
+[dpb]: http://murga-linux.com/puppy/viewtopic.php?t=116615
 
 <br/>
 
