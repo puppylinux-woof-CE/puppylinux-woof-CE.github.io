@@ -107,7 +107,7 @@ TVs, appliances and mobile phones.
 There are many different arm architectures and not all are compatible; armel,
 armhf, armv6l, armv7l, even 64 bit aarch64 or arm64.
 
-Puppy now has beta support for armhf on the [Raspberry Pi](https://www.raspberrypi.org) family
+Puppy now has support for armhf on the [Raspberry Pi](https://www.raspberrypi.org) family
 of computers, from pi zero and the original pi 1 to the latest pi 4. See [the Puppy Forum](http://murga-linux.com/puppy/viewtopic.php?t=116841)
 for more details.
 

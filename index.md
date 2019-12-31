@@ -63,16 +63,17 @@ or _flash_ it using _dd_ ([Windows version](http://www.chrysocome.net/dd))
 to your USB flash drive, or visit our [download](download.html) page
 for more comprehensive information.
 
-|Compatibility \*  | Bits    | Latest Version        | Download link                                      |
-|------------------|---------|-----------------------|----------------------------------------------------|
-|Ubuntu Bionic     | 32-bit  | BionicPup32 8.0       | [Main][bi32] - [Mirror][bi32m] - [Checksum][bi32c] |
-|Ubuntu Bionic 64  | 64-bit  | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
-|Ubuntu Xenial     | 32-bit  | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
-|Ubuntu Xenial 64  | 64-bit  | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
-|Slackware 14.1    | 32-bit  | Slacko Puppy   6.3.2  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
-|Slackware64 14.1  | 64-bit  | Slacko64 Puppy 6.3.2  | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
-|Ubuntu Tahr       | 32-bit  | Tahrpup 6.0.5         | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
-|Ubuntu Tahr 64    | 64-bit  | Tahrpup64 6.0.5       | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
+|Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
+|------------------|---------------|-----------------------|---------------------------------------------------------|
+|Raspbian Buster   | armhf 32-bit  | Raspup 8.2.0          | [Main][rasp] - [Mirror][raspm] - [Checksum][raspc] |
+|Ubuntu Bionic     | x86 32-bit    | BionicPup32 8.0       | [Main][bi32] - [Mirror][bi32m] - [Checksum][bi32c] |
+|Ubuntu Bionic 64  | x86_64 64-bit | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
+|Ubuntu Xenial     | x86 32-bit    | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
+|Ubuntu Xenial 64  | x86_64 64-bit | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
+|Slackware 14.1    | x86 32-bit    | Slacko Puppy   6.3.2  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
+|Slackware64 14.1  | x86_64 64-bit | Slacko64 Puppy 6.3.2  | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
+|Ubuntu Tahr       | x86 32-bit    | Tahrpup 6.0.5         | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
+|Ubuntu Tahr 64    | x86_64 64-bit | Tahrpup64 6.0.5       | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
 {: .table .table-striped .table-bordered }
 
 [sl32]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso
@@ -99,6 +100,9 @@ for more comprehensive information.
 [bi32]: http://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup32/bionicpup32-8.0-uefi.iso
 [bi32m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bionic/bionicpup32/bionicpup32-8.0-uefi.iso
 [bi32c]: http://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup32/bionicpup32-8.0-uefi.iso.md5.txt
+[rasp]: http://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.0/raspup-8.2.0-831a3e7cc-4gb-ext4nj.img.zip
+[raspm]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/arm/puppy-raspup-8.2.0/raspup-8.2.0-831a3e7cc-4gb-ext4nj.img.zip
+[raspc]: http://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.0/raspup-8.2.0-831a3e7cc-4gb-ext4nj.img.zip.md5.txt
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
 > and components from another Linux distribution called in Puppy the _"binary compatible"_
