@@ -65,7 +65,7 @@ for more comprehensive information.
 
 |Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
 |------------------|---------------|-----------------------|---------------------------------------------------------|
-|Raspbian Buster   | armhf 32-bit  | Raspup 8.2.0          | [Main][rasp] - [Mirror][raspm] - [Checksum][raspc] |
+|Raspbian Buster   | armhf 32-bit  | Raspup 8.2.1          | [Main][rasp] - [Mirror][raspm] - [Checksum][raspc] |
 |Ubuntu Bionic     | x86 32-bit    | BionicPup32 8.0       | [Main][bi32] - [Mirror][bi32m] - [Checksum][bi32c] |
 |Ubuntu Bionic 64  | x86_64 64-bit | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
 |Ubuntu Xenial     | x86 32-bit    | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
