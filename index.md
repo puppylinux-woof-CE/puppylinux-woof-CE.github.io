@@ -100,9 +100,9 @@ for more comprehensive information.
 [bi32]: http://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup32/bionicpup32-8.0-uefi.iso
 [bi32m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bionic/bionicpup32/bionicpup32-8.0-uefi.iso
 [bi32c]: http://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup32/bionicpup32-8.0-uefi.iso.md5.txt
-[rasp]: http://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.0/raspup-8.2.0-831a3e7cc-4gb-ext4nj.img.zip
-[raspm]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/arm/puppy-raspup-8.2.0/raspup-8.2.0-831a3e7cc-4gb-ext4nj.img.zip
-[raspc]: http://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.0/raspup-8.2.0-831a3e7cc-4gb-ext4nj.img.zip.md5.txt
+[rasp]: https://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip
+[raspm]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip
+[raspc]: http://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip.md5.txt
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
 > and components from another Linux distribution called in Puppy the _"binary compatible"_
