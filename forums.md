@@ -16,7 +16,7 @@ supplied by Raffy and the second at Linux Questions.
 
 ### Main Forum
 
-[The main Puppy Linux Forum - Murga](http://www.murga-linux.com/puppy/)
+[The main Puppy Linux Forum - Rockedge](http://https://puppylinux.rockedge.org)
 
 ### Alternate Forums
 
