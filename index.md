@@ -72,8 +72,8 @@ for more comprehensive information.
 |Ubuntu Xenial 64  | x86_64 64-bit | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
 |Slackware 14.1    | x86 32-bit    | Slacko Puppy   6.3.2  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
 |Slackware64 14.1  | x86_64 64-bit | Slacko64 Puppy 6.3.2  | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
-|Ubuntu Tahr       | x86 32-bit    | Tahrpup 6.0.5         | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
-|Ubuntu Tahr 64    | x86_64 64-bit | Tahrpup64 6.0.5       | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
+|Ubuntu Trusty     | x86 32-bit    | Tahrpup 6.0.5         | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
+|Ubuntu Trusty 64  | x86_64 64-bit | Tahrpup64 6.0.5       | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
 {: .table .table-striped .table-bordered }
 
 [sl32]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso
