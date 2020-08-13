@@ -140,12 +140,10 @@ don't expect that making a lot of noises and demands will make you one.
    * _pemasu_
    * _wdlkmpx_<br><br>
 
-3. Puppy Linux Website (this site) steward - Mick Amadio
+3. Puppy Linux Website (this site and wikka) steward - Mick Amadio
 
-4. Puppy Linux forum - John Murga
+4. Puppy Linux forum - Erik (a.k.a rockedge - formerly hosted by John Murga)
 
-5. Puppy Linux wiki - Raffy Mananghaya
-
-6. Puppy linux News - Raffy Mananghaya
+5. Puppy Linux Help Forum - Raffy Mananghaya
 
 
