@@ -25,16 +25,16 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
 [sla]: http://slacko.eezy.xyz
-[t32]: http://murga-linux.com/puppy/viewtopic.php?t=96178
-[t64]: http://murga-linux.com/puppy/viewtopic.php?t=96748
-[lxp]: http://murga-linux.com/puppy/viewtopic.php?t=101527
-[slb]: http://murga-linux.com/puppy/viewtopic.php?t=108017
-[x32]: http://murga-linux.com/puppy/viewtopic.php?t=106479
-[x64]: http://murga-linux.com/puppy/viewtopic.php?t=107331
-[b32]: http://murga-linux.com/puppy/viewtopic.php?t=113244
-[b64]: http://murga-linux.com/puppy/viewtopic.php?t=114311
-[slc]: http://murga-linux.com/puppy/viewtopic.php?t=114980
-[dps]: http://murga-linux.com/puppy/viewtopic.php?t=112125
+[t32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=96178
+[t64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=96748
+[lxp]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=101527
+[slb]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=108017
+[x32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=106479
+[x64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=107331
+[b32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=113244
+[b64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=114311
+[slc]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=114980
+[dps]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=112125
 
 <br/>
 

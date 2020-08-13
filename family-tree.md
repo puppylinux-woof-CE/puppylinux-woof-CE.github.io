@@ -82,8 +82,10 @@ Here are some of the more notable puplets, in no particular order:
 This is by no means an exhaustive list. If running or even making a puplet
 is in your interest you should browse 
 [_ally's_ collection](https://archive.org/details/puppylinux) or vist the
-[puplets area](http://www.murga-linux.com/puppy/index.php?f=35) of the 
-Puppy Linux Discussion Forum.
+[Re-masters area](https://forum.puppylinux.com/viewforum.php?f=119) of the Puppy Linux
+Discussion Forum and the 
+[puplets area](http://www.oldforum.puppylinux.com/puppy/index.php?f=35) of the 
+Old Puppy Linux Discussion Forum.
 
 ### Other notable offshots
 

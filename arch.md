@@ -108,7 +108,7 @@ There are many different arm architectures and not all are compatible; armel,
 armhf, armv6l, armv7l, even 64 bit aarch64 or arm64.
 
 Puppy now has support for armhf on the [Raspberry Pi](https://www.raspberrypi.org) family
-of computers, from pi zero and the original pi 1 to the latest pi 4. See [the Puppy Forum](http://murga-linux.com/puppy/viewtopic.php?t=116841)
+of computers, from pi zero and the original pi 1 to the latest pi 4. See [the Old Puppy Forum](http://oldforum.puppylinux.com/puppy/viewtopic.php?t=116841)
 for more details.
 
 ### BIOS and UEFI
@@ -143,7 +143,7 @@ Puppy does intend to support UEFI in the near future.
 Hopefully the above information has helped you out with your decision. If not,
 please consider this: The only stupid question is the one that isn't asked!
 Feel free to "ask away" on the 
-[Puppy Linux Discussion Forum](http://murga-linux.com/puppy).
+[Puppy Linux Discussion Forum](http://forum.puppylinux.com).
 
 ### References
 [Computer Hope](http://www.computerhope.com/jargon/num/32bit.htm)
