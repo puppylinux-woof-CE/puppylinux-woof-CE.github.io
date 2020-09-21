@@ -22,7 +22,7 @@ If one of these things interest you, read on.
 
 ### Yes, but what does it [look and feel like](screenshots.html "Screenshot Page")?
 
-[![Screenshot of BionicPup64 8.0](screenshots/bionicpup64.jpg){: .cr-image }](screenshots.html "Screenshot Page")
+[![Screenshot of FossaPup64 9.5](screenshots/fossadusk.jpg){: .cr-image }](screenshots.html "Screenshot Page")
 
 
 ### First thing first
@@ -65,6 +65,7 @@ for more comprehensive information.
 
 |Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
 |------------------|---------------|-----------------------|---------------------------------------------------------|
+|Ubuntu Focal  64  | x86_64 64-bit | FossaPup64 9.5        | [Main][fo64] - [Mirror][fo64m] - [Checksum][fo64c] |
 |Raspbian Buster   | armhf 32-bit  | Raspup 8.2.1          | [Main][rasp] - [Mirror][raspm] - [Checksum][raspc] |
 |Ubuntu Bionic     | x86 32-bit    | BionicPup32 8.0       | [Main][bi32] - [Mirror][bi32m] - [Checksum][bi32c] |
 |Ubuntu Bionic 64  | x86_64 64-bit | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
@@ -103,6 +104,9 @@ for more comprehensive information.
 [rasp]: https://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip
 [raspm]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip
 [raspc]: http://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip.md5.txt
+[fo64]: http://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso
+[fo64m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-fossa/fossapup64-9.5.iso
+[fo64c]: http://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso.md5.txt
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
 > and components from another Linux distribution called in Puppy the _"binary compatible"_
