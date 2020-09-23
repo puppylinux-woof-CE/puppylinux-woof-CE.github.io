@@ -10,6 +10,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 
 |  Name          |       Description                                | More Info                   |
 |----------------|--------------------------------------------------|-----------------------------|
+|FossaPup64      |UbuntuLTS20.04 compatible Official Pup (64bit)    |[Fossapup64 Forum Page][f64]|
 |BionicPup32     |UbuntuLTS18.04 compatible Official Pup (32bit)    |[BionicPup32 Forum Page][b32]|
 |BionicPup64     |UbuntuLTS18.04 compatible Official Pup (64bit)    |[Bionicpup64 Forum Page][b64]|
 |XenialPup       |UbuntuLTS16.04 compatible Official Pup (32bit)    |[Xenialpup Forum Page][x32]  |
@@ -32,6 +33,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 [x32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=106479
 [x64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=107331
 [b32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=113244
+[f64]: https://forum.puppylinux.com/viewtopic.php?f=146&t=820
 [b64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=114311
 [slc]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=114980
 [dps]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=112125
