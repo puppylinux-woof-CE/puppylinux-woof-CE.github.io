@@ -71,12 +71,20 @@ for more comprehensive information.
 |Ubuntu Bionic 64  | x86_64 64-bit | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
 |Ubuntu Xenial     | x86 32-bit    | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
 |Ubuntu Xenial 64  | x86_64 64-bit | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
+|Slackware 14.2    | x86 32-bit    | Slacko Puppy   7.0    | [Main][s732] - [Mirror][s732m] - [Checksum][s732c] |
+|Slackware64 14.2  | x86_64 64-bit | Slacko64 Puppy 7.0    | [Main][s764] - [Mirror][s764m] - [Checksum][s764c] |
 |Slackware 14.1    | x86 32-bit    | Slacko Puppy   6.3.2  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
 |Slackware64 14.1  | x86_64 64-bit | Slacko64 Puppy 6.3.2  | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
 |Ubuntu Trusty     | x86 32-bit    | Tahrpup 6.0.5         | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
 |Ubuntu Trusty 64  | x86_64 64-bit | Tahrpup64 6.0.5       | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
 {: .table .table-striped .table-bordered }
 
+[s732]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso
+[s732m]: https://mirror.aarnet.edu.au/pub/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso
+[s732c]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso.md5.txt
+[s764]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/64/slacko64-7.0.iso
+[s764m]: https://mirror.aarnet.edu.au/pub/puppylinux/puppy-slacko-7.0/64/slacko64-7.0.iso
+[s764c]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/64/slacko64-7.0.iso.md5.txt
 [sl32]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso
 [sl32m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso
 [sl32c]: http://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso.md5.txt
