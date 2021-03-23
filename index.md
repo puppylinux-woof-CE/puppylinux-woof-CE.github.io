@@ -128,7 +128,7 @@ It has been said that the best experience of Puppy Linux is not from
 the software itself, but from the community that gathers around it.
 Whatever you have in mind - praises, curses, questions, suggestions,
 or just plain chit-chat, we welcome you to join us at 
-[Puppy Linux Discussion Forum](http://forum.puppylinux.com) or just check 
+[Puppy Linux Discussion Forum](https://forum.puppylinux.com) or just check 
 the [discussions][download] for the latest puppylinux woof builds.
 
 

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://puppylinux.com/sitemap.xml
+Sitemap: https://puppylinux.com/sitemap.xml
