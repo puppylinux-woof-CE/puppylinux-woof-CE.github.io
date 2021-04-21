@@ -28,14 +28,14 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 [sla]: http://slacko.eezy.xyz
 [t32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=96178
 [t64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=96748
-[lxp]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=101527
-[slb]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=108017
+[lxp]: https://forum.puppylinux.com/viewforum.php?f=121
+[slb]: https://forum.puppylinux.com/viewtopic.php?t=192
 [x32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=106479
 [x64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=107331
-[b32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=113244
+[b32]: https://forum.puppylinux.com/viewtopic.php?t=165
 [f64]: https://forum.puppylinux.com/viewtopic.php?f=146&t=820
-[b64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=114311
-[slc]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=114980
+[b64]: https://forum.puppylinux.com/viewtopic.php?t=99
+[slc]: https://forum.puppylinux.com/viewforum.php?f=122
 [dps]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=112125
 
 <br/>
