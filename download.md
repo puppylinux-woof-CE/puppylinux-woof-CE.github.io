@@ -21,6 +21,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 |Slacko14.2      |Slackware14.2 compatible Pup (32 & 64bit)         |[Slacko14.2 Forum Page][slb] |
 |Slacko14.1      |Slackware14.1 compatible Official Pup (32 & 64bit)|[Slacko Website][sla]        |
 |LxPupSc         |SlackwareCurrent Pup with LXDE (32 & 64bit)       |[LxPupSc Forum Page][lxp]    |
+|FocalPup32      |UbuntuLTS20.04+Debian Pup (UPupFF+D) (32 bit)     |[FocalPup32 Forum Page][f32] |
 |DPupStretch     |DebianStretch compatible Pup (32bit)              |[DPupStretch Forum Page][dps]|
 {: .table .table-striped .table-bordered }
 
@@ -34,6 +35,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 [x64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=107331
 [b32]: https://forum.puppylinux.com/viewtopic.php?t=165
 [f64]: https://forum.puppylinux.com/viewtopic.php?f=146&t=820
+[f32]: https://forum.puppylinux.com/viewtopic.php?f=144&t=405
 [b64]: https://forum.puppylinux.com/viewtopic.php?t=99
 [slc]: https://forum.puppylinux.com/viewforum.php?f=122
 [dps]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=112125
