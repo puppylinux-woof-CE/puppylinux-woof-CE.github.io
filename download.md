@@ -26,7 +26,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 {: .table .table-striped .table-bordered }
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
-[sla]: https://slacko.eezy.xyz
+[sla]: http://slacko.eezy.xyz
 [t32]: https://oldforum.puppylinux.com/puppy/viewtopic.php?t=96178
 [t64]: https://oldforum.puppylinux.com/puppy/viewtopic.php?t=96748
 [lxp]: https://forum.puppylinux.com/viewforum.php?f=121
