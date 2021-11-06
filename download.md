@@ -26,19 +26,19 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 {: .table .table-striped .table-bordered }
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
-[sla]: http://slacko.eezy.xyz
-[t32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=96178
-[t64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=96748
+[sla]: https://slacko.eezy.xyz
+[t32]: https://oldforum.puppylinux.com/puppy/viewtopic.php?t=96178
+[t64]: https://oldforum.puppylinux.com/puppy/viewtopic.php?t=96748
 [lxp]: https://forum.puppylinux.com/viewforum.php?f=121
 [slb]: https://forum.puppylinux.com/viewtopic.php?t=192
-[x32]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=106479
-[x64]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=107331
+[x32]: https://oldforum.puppylinux.com/puppy/viewtopic.php?t=106479
+[x64]: https://oldforum.puppylinux.com/puppy/viewtopic.php?t=107331
 [b32]: https://forum.puppylinux.com/viewtopic.php?t=165
 [f64]: https://forum.puppylinux.com/viewtopic.php?f=146&t=820
 [f32]: https://forum.puppylinux.com/viewtopic.php?f=144&t=405
 [b64]: https://forum.puppylinux.com/viewtopic.php?t=99
 [slc]: https://forum.puppylinux.com/viewforum.php?f=122
-[dps]: http://oldforum.puppylinux.com/puppy/viewtopic.php?t=112125
+[dps]: https://oldforum.puppylinux.com/puppy/viewtopic.php?t=112125
 
 <br/>
 
@@ -52,7 +52,7 @@ and application frameworks.
 
 The Ibiblio puppylinux directory is mirrored by several sites world-wide.
 
-The [NLUUG](http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/) and the 
+The [NLUUG](https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/) and the 
 [UoC](http://ftp.cc.uoc.gr/mirrors/linux/puppylinux/) mirrors in Europe and 
 the [AARNET](http://mirror.aarnet.edu.au/pub/puppylinux/) and the 
 [Internode](http://mirror.internode.on.net/pub/puppylinux/) mirrors in 
