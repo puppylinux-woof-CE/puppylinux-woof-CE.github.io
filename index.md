@@ -79,6 +79,14 @@ for more comprehensive information.
 |Ubuntu Trusty 64  | x86_64 64-bit | Tahrpup64 6.0.5       | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
 {: .table .table-striped .table-bordered }
 
+### Unofficial distributions
+
+|Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
+|------------------|---------------|-----------------------|---------------------------------------------------------|
+|Debian 11         | x86_64 64-bit | Vanilla Dpup 9.2.x    | [Main][vd64]                                            |
+|Debian 11         | x86    32-bit | Vanilla Dpup 9.2.x    | [Main][vd32]                                            |
+{: .table .table-striped .table-bordered }
+
 [s732]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso
 [s732m]: https://mirror.aarnet.edu.au/pub/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso
 [s732c]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso.md5.txt
@@ -115,6 +123,8 @@ for more comprehensive information.
 [fo64]: https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso
 [fo64m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-fossa/fossapup64-9.5.iso
 [fo64c]: https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso.md5.txt
+[vd64]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86_64-9.2
+[vd32]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86-9.2
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
 > and components from another Linux distribution called in Puppy the _"binary compatible"_

@@ -25,6 +25,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 |JammyPup32      |UbuntuLTS22.04+Debian Pup (UPupJJ+D) (32 bit)     |[JammyPup32 Forum Page][uj32] |
 |DPupStretch     |DebianStretch compatible Pup (32bit)              |[DPupStretch Forum Page][dps]|
 |VoidPup         |Void Linux compatible Pup (32 & 64 bit)           |[VoidPup Forum Page][vpup] |
+|Vanilla Dpup    |Debian 11 compatible Pup (32 & 64 bit)            |[Vanilla Dpup Forum Page][vdpup]|
 {: .table .table-striped .table-bordered }
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
@@ -43,6 +44,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 [slc]: https://forum.puppylinux.com/viewforum.php?f=122
 [dps]: https://oldforum.puppylinux.com/viewtopic.php?t=112125
 [vpup]: https://forum.puppylinux.com/viewtopic.php?t=5270
+[vdpup]: https://forum.puppylinux.com/viewtopic.php?t=6105
 
 <br/>
 
