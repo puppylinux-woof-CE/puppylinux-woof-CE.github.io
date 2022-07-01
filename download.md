@@ -21,11 +21,11 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 |Slacko14.2      |Slackware14.2 compatible Pup (32 & 64bit)         |[Slacko14.2 Forum Page][slb] |
 |Slacko14.1      |Slackware14.1 compatible Official Pup (32 & 64bit)|[Slacko Website][sla]        |
 |LxPupSc         |SlackwareCurrent Pup with LXDE (32 & 64bit)       |[LxPupSc Forum Page][lxp]    |
-|FocalPup32      |UbuntuLTS20.04+Debian Pup (UPupFF+D) (32 bit)     |[FocalPup32 Forum Page][uf32] |
 |JammyPup32      |UbuntuLTS22.04+Debian Pup (UPupJJ+D) (32 bit)     |[JammyPup32 Forum Page][uj32] |
+|FocalPup32      |UbuntuLTS20.04+Debian Pup (UPupFF+D) (32 bit)     |[FocalPup32 Forum Page][uf32] |
+|Vanilla Dpup    |Debian 11 compatible Pup (32 & 64 bit)            |[Vanilla Dpup Forum Page][vdpup]|
 |DPupStretch     |DebianStretch compatible Pup (32bit)              |[DPupStretch Forum Page][dps]|
 |VoidPup         |Void Linux compatible Pup (32 & 64 bit)           |[VoidPup Forum Page][vpup] |
-|Vanilla Dpup    |Debian 11 compatible Pup (32 & 64 bit)            |[Vanilla Dpup Forum Page][vdpup]|
 {: .table .table-striped .table-bordered }
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
