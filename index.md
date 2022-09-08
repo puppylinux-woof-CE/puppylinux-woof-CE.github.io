@@ -117,7 +117,7 @@ for more comprehensive information.
 [bi32]: https://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup32/bionicpup32-8.0-uefi.iso
 [bi32m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bionic/bionicpup32/bionicpup32-8.0-uefi.iso
 [bi32c]: https://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup32/bionicpup32-8.0-uefi.iso.md5.txt
-[rasp]: httpss://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip
+[rasp]: https://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip
 [raspm]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip
 [raspc]: https://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip.md5.txt
 [fo64]: https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso
