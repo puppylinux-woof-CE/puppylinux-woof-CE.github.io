@@ -30,8 +30,8 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 
 |Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
 |------------------|---------------|-----------------------|---------------------------------------------------------|
-|Debian 11         | x86_64 64-bit | Vanilla Dpup 9.2.x    | [Main][vd64] [Forum Page][vdpup]                        |
-|Debian 11         | x86    32-bit | Vanilla Dpup 9.2.x    | [Main][vd32] [Forum Page][vdpup]                        |
+|Debian 11         | x86_64 64-bit | Vanilla Dpup 9.2.x    | [Link][vd64] : [Forum Page][vdpup]                      |
+|Debian 11         | x86    32-bit | Vanilla Dpup 9.2.x    | [Link][vd32] : [Forum Page][vdpup]                      |
 {: .table .table-striped .table-bordered }
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
