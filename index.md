@@ -71,20 +71,10 @@ for more comprehensive information.
 |Ubuntu Bionic 64  | x86_64 64-bit | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
 |Ubuntu Xenial     | x86 32-bit    | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
 |Ubuntu Xenial 64  | x86_64 64-bit | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
+|Slackware 15.0    | x86 32-bit    | S15Pup32   22.12      | [Main][sp32] - [Mirror][sp32] - [Checksum][sp32c] |
+|Slackware64 15.0  | x86_64 64-bit | S15Pup64   22.12      | [Main][sp64] - [Mirror][sp64] - [Checksum][sp64c] |
 |Slackware 14.2    | x86 32-bit    | Slacko Puppy   7.0    | [Main][s732] - [Mirror][s732m] - [Checksum][s732c] |
 |Slackware64 14.2  | x86_64 64-bit | Slacko64 Puppy 7.0    | [Main][s764] - [Mirror][s764m] - [Checksum][s764c] |
-|Slackware 14.1    | x86 32-bit    | Slacko Puppy   6.3.2  | [Main][sl32] - [Mirror][sl32m] - [Checksum][sl32c] |
-|Slackware64 14.1  | x86_64 64-bit | Slacko64 Puppy 6.3.2  | [Main][sl64] - [Mirror][sl64m] - [Checksum][sl64c] |
-|Ubuntu Trusty     | x86 32-bit    | Tahrpup 6.0.5         | [Main][ta32] - [Mirror][ta32m] - [Checksum][ta32c] |
-|Ubuntu Trusty 64  | x86_64 64-bit | Tahrpup64 6.0.5       | [Main][ta64] - [Mirror][ta64m] - [Checksum][ta64c] |
-{: .table .table-striped .table-bordered }
-
-### Unofficial distributions
-
-|Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
-|------------------|---------------|-----------------------|---------------------------------------------------------|
-|Debian 11         | x86_64 64-bit | Vanilla Dpup 9.2.x    | [Main][vd64]                                            |
-|Debian 11         | x86    32-bit | Vanilla Dpup 9.2.x    | [Main][vd32]                                            |
 {: .table .table-striped .table-bordered }
 
 [s732]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso
@@ -93,18 +83,10 @@ for more comprehensive information.
 [s764]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/64/slacko64-7.0.iso
 [s764m]: https://mirror.aarnet.edu.au/pub/puppylinux/puppy-slacko-7.0/64/slacko64-7.0.iso
 [s764c]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/64/slacko64-7.0.iso.md5.txt
-[sl32]: https://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso
-[sl32m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso
-[sl32c]: https://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/32/slacko-6.3.2-uefi.iso.md5.txt
-[sl64]: https://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/64/slacko64-6.3.2-uefi.iso
-[sl64m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-slacko-6.3.2/64/slacko64-6.3.2-uefi.iso
-[sl64c]: https://distro.ibiblio.org/puppylinux/puppy-slacko-6.3.2/64/slacko64-6.3.2-uefi.iso.md5.txt
-[ta32]: https://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0.5_PAE.iso
-[ta32m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0.5_PAE.iso
-[ta32c]: https://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0.5_PAE.iso.md5.txt
-[ta64]: https://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup64-6.0.5/tahr64-6.0.5.iso
-[ta64m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-tahr/iso/tahrpup64-6.0.5/tahr64-6.0.5.iso
-[ta64c]: https://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup64-6.0.5/tahr64-6.0.5.iso.md5.txt
+[sp32]: http://distro.ibiblio.org/puppylinux/puppy-s15pup/s15pup32-22.12.htm
+[sp32c]: http://distro.ibiblio.org/puppylinux/puppy-s15pup/S15Pup32-22.12.iso.md5.txt
+[sp64]: http://distro.ibiblio.org/puppylinux/puppy-s15pup/s15pup64-22.12.htm
+[sp64c]: http://distro.ibiblio.org/puppylinux/puppy-s15pup/S15Pup64-22.12.iso.md5.txt
 [xe32]: https://distro.ibiblio.org/puppylinux/puppy-xenial/32/xenialpup-7.5-uefi.iso
 [xe32m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-xenial/32/xenialpup-7.5-uefi.iso
 [xe32c]: https://distro.ibiblio.org/puppylinux/puppy-xenial/32/xenialpup-7.5-uefi.iso.md5&sha256.txt
@@ -123,8 +105,6 @@ for more comprehensive information.
 [fo64]: https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso
 [fo64m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-fossa/fossapup64-9.5.iso
 [fo64c]: https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso.md5.txt
-[vd64]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86_64-9.2
-[vd32]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86-9.2
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
 > and components from another Linux distribution called in Puppy the _"binary compatible"_
@@ -150,7 +130,6 @@ the [discussions][download] for the latest puppylinux woof builds.
  3. [Puppy Linux Team][team]
  4. [Puppy Linux Build System (_Woof-CE_)][woof-ce]
  5. [Screenshots!][screen]
- 6. [Newsletters] [newsletter]
 
 [faq]: faq.html
 [woof-ce]: woof-ce.html
@@ -159,7 +138,6 @@ the [discussions][download] for the latest puppylinux woof builds.
 [family-tree]: family-tree.html
 [screen]: screenshots.html
 [download]: download.html
-[newsletter]: http://smokey01.com/newsletters/
 
 
 
