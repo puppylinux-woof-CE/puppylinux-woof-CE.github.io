@@ -17,15 +17,21 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 |XenialPup64     |UbuntuLTS16.04 compatible Official Pup (64bit)    |[Xenialpup64 Forum Page][ux64]|
 |Tahrpup         |UbuntuLTS14.04 compatible Official Pup (32bit)    |[Tahrpup Forum Page][ut32]    |
 |Tahrpup64       |UbuntuLTS14.04 compatible Official Pup (64bit)    |[Tahrpup64 Forum Page][ut64]  |
-|ScPup           |SlackwareCurrent compatible Pup (32 & 64bit)      |[ScPup Forum Page][slc]      |
+|S15Pup          |Slackware15.0 compatible Official Pup (32 & 64bit)|[S15Pup Forum Page][sl15]     |
 |Slacko14.2      |Slackware14.2 compatible Pup (32 & 64bit)         |[Slacko14.2 Forum Page][slb] |
 |Slacko14.1      |Slackware14.1 compatible Official Pup (32 & 64bit)|[Slacko Website][sla]        |
+|ScPup           |SlackwareCurrent compatible Pup (32 & 64bit)      |[ScPup Forum Page][slc]      |
 |LxPupSc         |SlackwareCurrent Pup with LXDE (32 & 64bit)       |[LxPupSc Forum Page][lxp]    |
 |JammyPup32      |UbuntuLTS22.04+Debian Pup (UPupJJ+D) (32 bit)     |[JammyPup32 Forum Page][uj32] |
 |FocalPup32      |UbuntuLTS20.04+Debian Pup (UPupFF+D) (32 bit)     |[FocalPup32 Forum Page][uf32] |
-|Vanilla Dpup    |Debian 11 compatible Pup (32 & 64 bit)            |[Vanilla Dpup Forum Page][vdpup]|
 |DPupStretch     |DebianStretch compatible Pup (32bit)              |[DPupStretch Forum Page][dps]|
 |VoidPup         |Void Linux compatible Pup (32 & 64 bit)           |[VoidPup Forum Page][vpup] |
+{: .table .table-striped .table-bordered }
+
+|Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
+|------------------|---------------|-----------------------|---------------------------------------------------------|
+|Debian 11         | x86_64 64-bit | Vanilla Dpup 9.2.x    | [Main][vd64] [Forum Page][vdpup]                        |
+|Debian 11         | x86    32-bit | Vanilla Dpup 9.2.x    | [Main][vd32] [Forum Page][vdpup]                        |
 {: .table .table-striped .table-bordered }
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
@@ -42,9 +48,12 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 [uj32]: https://forum.puppylinux.com/viewtopic.php?t=5799
 [ub64]: https://forum.puppylinux.com/viewtopic.php?t=99
 [slc]: https://forum.puppylinux.com/viewforum.php?f=122
+[sl15]: https://forum.puppylinux.com/viewtopic.php?t=7464
 [dps]: https://oldforum.puppylinux.com/viewtopic.php?t=112125
 [vpup]: https://forum.puppylinux.com/viewtopic.php?t=5270
 [vdpup]: https://forum.puppylinux.com/viewtopic.php?t=6105
+[vd64]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86_64-9.2
+[vd32]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86-9.2
 
 <br/>
 
