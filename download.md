@@ -8,7 +8,7 @@ title: Puppy Linux Downloads
 
 See: Official Pup build recipes at [Woof-CE on GITHUB]
 
-|  Name          |       Description                                | More Info                   |
+|  Name          |       Description - ([Download links])           | More Info                   |
 |----------------|--------------------------------------------------|-----------------------------|
 |FossaPup64      |UbuntuLTS20.04 compatible Official Pup (64bit)    |[Fossapup64 Forum Page][uf64]|
 |BionicPup32     |UbuntuLTS18.04 compatible Official Pup (32bit)    |[BionicPup32 Forum Page][ub32]|
@@ -18,7 +18,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 |Tahrpup         |UbuntuLTS14.04 compatible Official Pup (32bit)    |[Tahrpup Forum Page][ut32]    |
 |Tahrpup64       |UbuntuLTS14.04 compatible Official Pup (64bit)    |[Tahrpup64 Forum Page][ut64]  |
 |S15Pup          |Slackware15.0 compatible Official Pup (32 & 64bit)|[S15Pup Forum Page][sl15]     |
-|Slacko14.2      |Slackware14.2 compatible Pup (32 & 64bit)         |[Slacko14.2 Forum Page][slb] |
+|Slacko14.2      |Slackware14.2 compatible Official Pup (32 & 64bit)|[Slacko14.2 Forum Page][slb] |
 |Slacko14.1      |Slackware14.1 compatible Official Pup (32 & 64bit)|[Slacko Website][sla]        |
 |ScPup           |SlackwareCurrent compatible Pup (32 & 64bit)      |[ScPup Forum Page][slc]      |
 |LxPupSc         |SlackwareCurrent Pup with LXDE (32 & 64bit)       |[LxPupSc Forum Page][lxp]    |
@@ -35,6 +35,7 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 {: .table .table-striped .table-bordered }
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
+[Download links]: https://puppylinux-woof-ce.github.io/index.html#download
 [sla]: http://slacko.eezy.xyz
 [ut32]: https://oldforum.puppylinux.com/viewtopic.php?t=96178
 [ut64]: https://oldforum.puppylinux.com/viewtopic.php?t=96748
