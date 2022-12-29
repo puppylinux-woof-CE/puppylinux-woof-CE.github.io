@@ -30,8 +30,8 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 
 |Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
 |------------------|---------------|-----------------------|---------------------------------------------------------|
-|Debian 11         | x86_64 64-bit | Vanilla Dpup 9.2.x    | [Link][vd64] : [Forum Page][vdpup]                      |
-|Debian 11         | x86    32-bit | Vanilla Dpup 9.2.x    | [Link][vd32] : [Forum Page][vdpup]                      |
+|Debian 11         | x86_64 64-bit | Vanilla Dpup 9.3.x    | [Link][vd64] : [Forum Page][vdpup]                      |
+|Debian 11         | x86    32-bit | Vanilla Dpup 9.3.x    | [Link][vd32] : [Forum Page][vdpup]                      |
 {: .table .table-striped .table-bordered }
 
 [Woof-CE on GITHUB]: https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro
@@ -52,9 +52,9 @@ See: Official Pup build recipes at [Woof-CE on GITHUB]
 [sl15]: https://forum.puppylinux.com/viewtopic.php?t=7464
 [dps]: https://oldforum.puppylinux.com/viewtopic.php?t=112125
 [vpup]: https://forum.puppylinux.com/viewtopic.php?t=5270
-[vdpup]: https://forum.puppylinux.com/viewtopic.php?t=6105
-[vd64]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86_64-9.2
-[vd32]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86-9.2
+[vdpup]: https://forum.puppylinux.com/viewtopic.php?t=7656
+[vd64]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86_64-9.3
+[vd32]: https://github.com/vanilla-dpup/releases/releases?q=vanilladpup-x86-9.3
 
 <br/>
 
