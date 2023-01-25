@@ -247,7 +247,6 @@ to Lupu.
 It was developed and maintained by Phil Broughton (aka _666philb_).
 
 The second one is Slacko Puppy 6.3, direct successor to Slacko 5.7.
-It is still maintained by 01micko.
 
 This release also marked Puppy Linux moving forward to support 64-bit
 machines (previous Puppy have always been able to run in 64-bit

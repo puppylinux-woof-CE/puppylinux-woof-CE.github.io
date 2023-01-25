@@ -118,12 +118,7 @@ don't expect that making a lot of noises and demands will make you one.
 
 #### List of current Puppy Linux stewards
 
-1. Puppy Linux Master Steward - Mick Amadio (_01micko_).<br>
-   Role: Appoint which distribution is considered as "Official Release".
-   Also responsible for puppylinux.com domain as well as main Puppy
-   Linux distribution site in ibiblio.org
-   
-2. Woof-CE members - are the people who decide whether a proposed
+1. Woof-CE members - are the people who decide whether a proposed
    change is accepted into Woof-CE. They hold commit rights to
    Woof-CE and contributed most of the code that is currently in 
    Woof-CE and the other puppylinux-woof-CE [repositories](https://github.com/puppylinux-woof-CE) <br>
@@ -140,10 +135,6 @@ don't expect that making a lot of noises and demands will make you one.
    * _pemasu_
    * _wdlkmpx_<br><br>
 
-3. Puppy Linux Website (this site and wikka) steward - Mick Amadio
-
-4. Puppy Linux forum - Erik (a.k.a rockedge - formerly hosted by John Murga)
-
-5. Puppy Linux Help Forum - Raffy Mananghaya
+2. Puppy Linux forum - Erik (a.k.a rockedge - formerly hosted by John Murga)
 
 
