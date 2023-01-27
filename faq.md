@@ -25,9 +25,8 @@ title: Puppy Linux Frequently Asked Questions (FAQ)
 ### Official and latest versions
 
  - **Q**: What is an official Puppy Linux distribution? <br>
-   **A**: It must meet two conditions. 1) It must be built using
-   Woof-CE  and its build "recipe" should be in [woof-distro](https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro). 
-   2) It must be endorsed as "official" by the Puppy Master.
+   **A**: It must be built using Woof-CE  and its build "recipe" should be in
+   [woof-distro](https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro).
 
  - **Q**: What is the latest version of official Puppy Linux? <br>
    **A**: Check the [homepage](index.html) of this site. If need be,
