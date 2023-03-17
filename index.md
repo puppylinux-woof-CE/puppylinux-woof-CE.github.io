@@ -111,6 +111,23 @@ for more comprehensive information.
 > distribution. The choice of a binary compatible distribution determines the availability of 
 > additional packages, among other things.
 
+### Download Sites
+
+All the "official" Puppies since version 2 are hosted at [Ibiblio](http://distro.ibiblio.org/puppylinux/).
+
+Ibiblio also hosts the puppy specific packages (pet) used to build puppies as 
+well as squashfs files (sfs) with kernels, kernel sources, large applications 
+and application frameworks.
+
+The Ibiblio puppylinux directory is mirrored by several sites world-wide.
+
+The [NLUUG](https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/) and the 
+[UoC](http://ftp.cc.uoc.gr/mirrors/linux/puppylinux/) mirrors in Europe and 
+the [AARNET](http://mirror.aarnet.edu.au/pub/puppylinux/) and the 
+[Internode](http://mirror.internode.on.net/pub/puppylinux/) mirrors in 
+Australia are known to update regularly and are usually faster than Ibiblio.
+
+_Mirrors may take up to a day to incorporate changes in Ibiblio_.
 
 ### Questions?
 
