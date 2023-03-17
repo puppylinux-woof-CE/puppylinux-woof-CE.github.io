@@ -60,7 +60,7 @@ There are generally three broad categories of Puppy Linux distributions:
 
 Get the ISO, burn it to a CD/DVD using your favorite CD/DVD burner, 
 or _flash_ it using _dd_ ([Windows version](http://www.chrysocome.net/dd))
-to your USB flash drive, or visit our [download](download.html) page
+to your USB flash drive, or visit our [download](https://forum.puppylinux.com/puppy-linux-collection) page
 for more comprehensive information.
 
 |Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
