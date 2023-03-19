@@ -60,7 +60,7 @@ There are generally three broad categories of Puppy Linux distributions:
 
 Get the ISO, burn it to a CD/DVD using your favorite CD/DVD burner, 
 or _flash_ it using _dd_ ([Windows version](http://www.chrysocome.net/dd))
-to your USB flash drive, or visit our [download](download.html) page
+to your USB flash drive, or visit our [download](https://forum.puppylinux.com/puppy-linux-collection) page
 for more comprehensive information.
 
 |Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
@@ -111,6 +111,23 @@ for more comprehensive information.
 > distribution. The choice of a binary compatible distribution determines the availability of 
 > additional packages, among other things.
 
+### Download Sites
+
+All the "official" Puppies since version 2 are hosted at [Ibiblio](http://distro.ibiblio.org/puppylinux/).
+
+Ibiblio also hosts the puppy specific packages (pet) used to build puppies as 
+well as squashfs files (sfs) with kernels, kernel sources, large applications 
+and application frameworks.
+
+The Ibiblio puppylinux directory is mirrored by several sites world-wide.
+
+The [NLUUG](https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/) and the 
+[UoC](http://ftp.cc.uoc.gr/mirrors/linux/puppylinux/) mirrors in Europe and 
+the [AARNET](http://mirror.aarnet.edu.au/pub/puppylinux/) and the 
+[Internode](http://mirror.internode.on.net/pub/puppylinux/) mirrors in 
+Australia are known to update regularly and are usually faster than Ibiblio.
+
+_Mirrors may take up to a day to incorporate changes in Ibiblio_.
 
 ### Questions?
 
