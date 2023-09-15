@@ -63,9 +63,7 @@ Terminal.
 
 ### Puplets
 
-Puplet builders are free to explore whatever combination of desktop they like.
-LXDE and XFCE Desktop Environments have proven popular alternatives over the 
-years.
+Puplet builders have the freedom to explore any desktop combination they prefer, with LXDE and XFCE desktop environments having established themselves as popular alternatives over time.
 
 #### Librepup
 
