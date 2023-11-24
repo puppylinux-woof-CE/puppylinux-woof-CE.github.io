@@ -67,7 +67,7 @@ for more comprehensive information. Official Pup build recipes are kept at [Woof
 |------------------|---------------|-----------------------|---------------------------------------------------------|
 |Ubuntu Focal  64  | x86_64 64-bit | FossaPup64 9.5        | [Main][fo64] - [Mirror][fo64m] - [Checksum][fo64c] |
 |Raspbian Buster   | armhf 32-bit  | Raspup 8.2.1          | [Main][rasp] - [Mirror][raspm] - [Checksum][raspc] |
-|Ubuntu Bionic     | x86 32-bit    | BionicPup32 8.0       | [Main][bi32] - [Mirror][bi32] - [Checksum][bi32c] |
+|Ubuntu Bionic     | x86 32-bit    | BionicPup32 8.0       | [Main][bi32] - [Mirror][bi32m] - [Checksum][bi32c] |
 |Ubuntu Bionic 64  | x86_64 64-bit | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
 |Ubuntu Xenial     | x86 32-bit    | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
 |Ubuntu Xenial 64  | x86_64 64-bit | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
@@ -96,8 +96,9 @@ for more comprehensive information. Official Pup build recipes are kept at [Woof
 [bi64]: https://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup64/bionicpup64-8.0-uefi.iso
 [bi64m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bionic/bionicpup64/bionicpup64-8.0-uefi.iso
 [bi64c]: https://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup64/bionicpup64-8.0-uefi.iso.md5.txt
-[bi32]: https://sourceforge.net/projects/pb-gh-releases/files/BionicPup32_release/
-[bi32c]: https://sourceforge.net/projects/pb-gh-releases/files/BionicPup32_release/
+[bi32]: http://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup32/
+[bi32m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bionic/bionicpup32/
+[bi32c]: http://distro.ibiblio.org/puppylinux/puppy-bionic/bionicpup32/
 [rasp]: https://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip
 [raspm]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip
 [raspc]: https://distro.ibiblio.org/puppylinux/arm/puppy-raspup-8.2.1/raspup-8.2.1-a60dc46d9-2gb-f2fs-swap.img.zip.md5.txt
