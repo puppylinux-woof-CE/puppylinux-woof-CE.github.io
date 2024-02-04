@@ -12,17 +12,19 @@ Traditionally, Puppy Linux has used the combination of
 until this day. Love it or hate it, you can't argue with the lightness on the 
 system of this combination. It has certainly stood the test of time!
 
-There has been a couple of exceptions to this rule, notably when Lupu's
-developer Larry Short decided to try _IceWM / Rox_ combination but ultimately
-settled on _Open Box / FBPanel / Rox_.
+There has been a couple of exceptions to this rule, with some pups offering LXDE or Xfce desktops.
 
-#### Check the action
+#### S15Pup64-22.12
 
-Check **puppylinux 8** in action in this youtube [video](https://www.youtube.com/watch?v=qibxDA_Kxdk)
+Featuring JWM, RoxFiler, Light browser, Abiword, Gnumeric, PMusic, Gnome Mplayer, PTheme
 
-{% include youtubePlayer.html id=page.youtubeId %}
+![Screenshot of S15Pup64-22.12](screenshots/S15Pup64.png){: .cr-image }
 
 #### Bionicpup64 8.0
+
+Check **Puppy Linux 8** in action in this youtube [video](https://www.youtube.com/watch?v=qibxDA_Kxdk)
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Featuring Home Bank financial tracking, PaleMoon
 Browser and an updated version of Rox File file manager.
@@ -65,16 +67,9 @@ Terminal.
 
 Puplet builders have the freedom to explore any desktop combination they prefer, with LXDE and XFCE desktop environments having established themselves as popular alternatives over time.
 
-#### Librepup
-
-Featuring Qupzilla browser, Puppy Setup, VLC Media Player, SFS Load
-and JWM / Rox desktop.
-
-![Screenshot of Librepup](screenshots/librepup.jpg){: .cr-image }
-
 #### Lxpup
 
-Featuring Abiword Word Processor, Firefox Browser, Gnome Mplayer, PCManFM
+Featuring Abiword Word Processor, Light Browser, Gnome Mplayer, PCManFM
 File Manager and the LXDE Desktop.
 
 ![Screenshot of Lx](screenshots/lxpup.jpg){: .cr-image }
