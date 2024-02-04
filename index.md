@@ -22,7 +22,9 @@ If one of these things interest you, read on.
 
 ### Yes, but what does it [look and feel like](screenshots.html "Screenshot Page")?
 
-[![Screenshot of FossaPup64 9.5](screenshots/fossadusk.jpg){: .cr-image }](screenshots.html "Screenshot Page")
+Just a fairly typical example - each Pup has its own look and feel.....
+
+[![Screenshot of S15Pup64-22.12](screenshots/S15Pup64.png){: .cr-image }](screenshots.html "Screenshot Page")
 
 
 ### First thing first
