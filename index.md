@@ -10,22 +10,20 @@ Puppy Linux is a unique family of Linux distributions meant for the home-user co
 ### Puppy Linux advantage
 
  1. Ready to use → all tools for common daily computing usage already included.
- 2. Ease of use → grandpa-friendly certified ™
- 3. Relatively small size → 300 MB or less.
+ 2. Ease of use → lots of included help & hints
+ 3. Relatively small size → typically 500 MB or less.
  4. Fast and versatile.
- 5. Customisable within minutes → remasters.
- 6. Different flavours → optimised to support older computers, newer computers.
+ 5. Customisable within minutes → can be made permanent with remasters.
+ 6. Different flavours → optimised to support older & newer computers.
  7. Variety → hundreds of derivatives ("puplets"), one of which will surely meet your needs.
 
 If one of these things interest you, read on.
-
 
 ### Yes, but what does it [look and feel like](screenshots.html "Screenshot Page")?
 
 Just a fairly typical example - each Pup has its own look and feel.....
 
 [![Screenshot of S15Pup64-22.12](screenshots/S15Pup64.png){: .cr-image }](screenshots.html "Screenshot Page")
-
 
 ### First thing first
 
