@@ -16,7 +16,7 @@ There has been a couple of exceptions to this rule, with some pups offering LXDE
 
 #### BookwormPups
 
-Featuring JWM, RoxFiler, GTK-3 apps, OverlayFS, USRMerge filesystem, Pulseaudio, ConnMan
+Featuring JWM, RoxFiler, GTK-3 apps, OverlayFS, USRMerge filesystem, Pipewire, ConnMan
 
 ![Screenshot of BookwormPup64-10.0](screenshots/BWP64.png){: .cr-image }
 
