@@ -21,9 +21,11 @@ If one of these things interest you, read on.
 
 ### Yes, but what does it [look and feel like](screenshots.html "Screenshot Page")?
 
-Just a fairly typical example - each Pup has its own look and feel.....
+Recent releases - each Pup has its own look and feel.....
 
-[![Screenshot of S15Pup64-22.12](screenshots/S15Pup64.png){: .cr-image }](screenshots.html "Screenshot Page")
+[![Screenshot of BookwormPup64-10.0](screenshots/BWP64.png){: .cr-image }](screenshots.html "Screenshot Page")
+
+[![Screenshot of BookwormPup32-23.12](screenshots/BWP32.png){: .cr-image }](screenshots.html "Screenshot Page")
 
 ### First thing first
 
@@ -56,7 +58,7 @@ There are generally three broad categories of Puppy Linux distributions:
 
 <p id="download"/><!--do not edit this line-->
 
-### Why not try it? Download now! (Official distributions)
+### Why not try it? Download now!
 
 Get the ISO, burn it to a CD/DVD using your favorite CD/DVD burner, 
 or _flash_ it using _dd_ ([Windows version](http://www.chrysocome.net/dd))
@@ -65,16 +67,11 @@ for more comprehensive information. Official Pup build recipes are kept at [Woof
 
 |Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
 |------------------|---------------|-----------------------|---------------------------------------------------------|
-|Ubuntu Focal  64  | x86_64 64-bit | FossaPup64 9.5        | [Main][fo64] - [Mirror][fo64m] - [Checksum][fo64c] |
-|Raspbian Buster   | armhf 32-bit  | Raspup 8.2.1          | [Main][rasp] - [Mirror][raspm] - [Checksum][raspc] |
-|Ubuntu Bionic     | x86 32-bit    | BionicPup32 8.0       | [Main][bi32] - [Mirror][bi32m] - [Checksum][bi32c] |
-|Ubuntu Bionic 64  | x86_64 64-bit | BionicPup64 8.0       | [Main][bi64] - [Mirror][bi64m] - [Checksum][bi64c] |
-|Ubuntu Xenial     | x86 32-bit    | XenialPup 7.5         | [Main][xe32] - [Mirror][xe32m] - [Checksum][xe32c] |
-|Ubuntu Xenial 64  | x86_64 64-bit | XenialPup64 7.5       | [Main][xe64] - [Mirror][xe64m] - [Checksum][xe64c] |
-|Slackware 15.0    | x86 32-bit    | S15Pup32   22.12      | [Main][sp32] - [Mirror][sp32] - [Checksum][sp32c] |
-|Slackware64 15.0  | x86_64 64-bit | S15Pup64   22.12      | [Main][sp64] - [Mirror][sp64] - [Checksum][sp64c] |
-|Slackware 14.2    | x86 32-bit    | Slacko Puppy   7.0    | [Main][s732] - [Mirror][s732m] - [Checksum][s732c] |
-|Slackware64 14.2  | x86_64 64-bit | Slacko64 Puppy 7.0    | [Main][s764] - [Mirror][s764m] - [Checksum][s764c] |
+|Debian Bookworm 64| x86_64 64-bit | BookwormPup64 10.0    | [Main][bw64] - [Mirror][bw64m] |
+|Debian Bookworm 32| x86 32-bit    | BookwormPup32 23.12   | [Main][fo64] - [Mirror][fo64m] |
+|Ubuntu Focal  64  | x86_64 64-bit | FossaPup64 9.5        | [Main][fo64] - [Mirror][fo64m] |
+|Slackware 15.0    | x86 32-bit    | S15Pup32 22.12        | [Main][sp32] - [Mirror][sp32] |
+|Slackware64 15.0  | x86_64 64-bit | S15Pup64 22.12        | [Main][sp64] - [Mirror][sp64] |
 {: .table .table-striped .table-bordered }
 
 [s732]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso
@@ -105,6 +102,10 @@ for more comprehensive information. Official Pup build recipes are kept at [Woof
 [fo64]: https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso
 [fo64m]: https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-fossa/fossapup64-9.5.iso
 [fo64c]: https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso.md5.txt
+[bw64]: https://distro.ibiblio.org/puppylinux/puppy-bookwormpup/BookwormPup64/BookwormPup64.htm
+[bw64m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bookwormpup/BookwormPup64/BookwormPup64.htm
+[bw32]: https://distro.ibiblio.org/puppylinux/puppy-bookwormpup/BookwormPup32/BookwormPup32.htm
+[bw32m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bookwormpup/BookwormPup32/BookwormPup32.htm
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
 > and components from another Linux distribution called in Puppy the _"binary compatible"_
