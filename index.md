@@ -68,7 +68,7 @@ for more comprehensive information. Official Pup build recipes are kept at [Woof
 |Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
 |------------------|---------------|-----------------------|---------------------------------------------------------|
 |Debian Bookworm 64| x86_64 64-bit | BookwormPup64 10.0    | [Main][bw64] - [Mirror][bw64m] |
-|Debian Bookworm 32| x86 32-bit    | BookwormPup32 23.12   | [Main][fo64] - [Mirror][fo64m] |
+|Debian Bookworm 32| x86 32-bit    | BookwormPup32 23.12   | [Main][bw32] - [Mirror][bw32m] |
 |Ubuntu Focal  64  | x86_64 64-bit | FossaPup64 9.5        | [Main][fo64] - [Mirror][fo64m] |
 |Slackware 15.0    | x86 32-bit    | S15Pup32 22.12        | [Main][sp32] - [Mirror][sp32] |
 |Slackware64 15.0  | x86_64 64-bit | S15Pup64 22.12        | [Main][sp64] - [Mirror][sp64] |
