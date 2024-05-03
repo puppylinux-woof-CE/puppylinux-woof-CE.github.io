@@ -14,6 +14,14 @@ system of this combination. It has certainly stood the test of time!
 
 There has been a couple of exceptions to this rule, with some pups offering LXDE or Xfce desktops.
 
+#### BookwormPups
+
+Featuring JWM, RoxFiler, GTK-3 apps, OverlayFS, USRMerge filesystem, Pulseaudio, ConnMan
+
+![Screenshot of BookwormPup64-10.0](screenshots/BWP64.png){: .cr-image }
+
+![Screenshot of BookwormPup32-23.12](screenshots/BWP32.png){: .cr-image }
+
 #### S15Pup64-22.12
 
 Featuring JWM, RoxFiler, Light browser, Abiword, Gnumeric, PMusic, Gnome Mplayer, PTheme
