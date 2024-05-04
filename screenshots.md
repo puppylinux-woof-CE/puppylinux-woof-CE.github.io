@@ -16,7 +16,7 @@ There has been a couple of exceptions to this rule, with some pups offering LXDE
 
 #### BookwormPups
 
-Featuring JWM, RoxFiler, GTK-3 apps, OverlayFS, USRMerge filesystem, Pipewire, ConnMan
+Featuring JWM, RoxFiler, GTK-3 apps, Apt/Synaptic package management, OverlayFS, USRMerge filesystem, Pipewire, ConnMan
 
 ![Screenshot of BookwormPup64-10.0](screenshots/BWP64.png){: .cr-image }
 
@@ -34,8 +34,7 @@ Check **Puppy Linux 8** in action in this youtube [video](https://www.youtube.co
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-Featuring Home Bank financial tracking, PaleMoon
-Browser and an updated version of Rox File file manager.
+Featuring Home Bank financial tracking, PaleMoon Browser and an updated version of Rox File file manager.
 
 ![Screenshot of Bionicpup64 8.0](screenshots/bionicpup64.jpg){: .cr-image }
 
