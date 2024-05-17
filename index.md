@@ -70,9 +70,9 @@ for more comprehensive information. Official Pup build recipes are kept at [Woof
 |------------------|---------------|-----------------------|---------------------------------------------------------|
 |Debian Bookworm 64| x86_64 64-bit | BookwormPup64 10.0    | [Main][bw64] - [Mirror][bw64m] |
 |Debian Bookworm 32| x86 32-bit    | BookwormPup32 23.12   | [Main][bw32] - [Mirror][bw32m] |
-|Ubuntu Focal  64  | x86_64 64-bit | FossaPup64 9.5        | [Main][fo64] - [Mirror][fo64m] |
-|Slackware 15.0    | x86 32-bit    | S15Pup32 22.12        | [Main][sp32] - [Mirror][sp32] |
+|Ubuntu Focal 64   | x86_64 64-bit | F96-CE_4              | [Main][f96ce] - [Mirror][f96cem] |
 |Slackware64 15.0  | x86_64 64-bit | S15Pup64 22.12        | [Main][sp64] - [Mirror][sp64] |
+|Slackware 15.0    | x86 32-bit    | S15Pup32 22.12        | [Main][sp32] - [Mirror][sp32] |
 {: .table .table-striped .table-bordered }
 
 [s732]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso
@@ -107,6 +107,8 @@ for more comprehensive information. Official Pup build recipes are kept at [Woof
 [bw64m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bookwormpup/BookwormPup64/BookwormPup64.htm
 [bw32]: https://distro.ibiblio.org/puppylinux/puppy-bookwormpup/BookwormPup32/BookwormPup32.htm
 [bw32m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bookwormpup/BookwormPup32/BookwormPup32.htm
+[f96ce]: https://rockedge.org/kernels/data/ISO/F96-CE/F96-CE_4.iso
+[f96cem]: https://f96.puppylinux.com
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
 > and components from another Linux distribution called in Puppy the _"binary compatible"_
