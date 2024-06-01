@@ -66,13 +66,13 @@ or _flash_ it using _dd_ ([Windows version](http://www.chrysocome.net/dd))
 to your USB flash drive, or visit our [download](https://forum.puppylinux.com/puppy-linux-collection) page
 for more comprehensive information. Official Pup build recipes are kept at [Woof-CE on GITHUB](https://github.com/puppylinux-woof-CE/woof-CE/tree/testing/woof-distro).
 
-|Compatibility \*  | Architecture  | Latest Version        | Download link                                           |
-|------------------|---------------|-----------------------|---------------------------------------------------------|
-|Debian Bookworm 64| x86_64 64-bit | BookwormPup64 10.0    | [Main][bw64] - [Mirror][bw64m] |
-|Debian Bookworm 32| x86 32-bit    | BookwormPup32 23.12   | [Main][bw32] - [Mirror][bw32m] |
-|Ubuntu Focal 64   | x86_64 64-bit | F96-CE_4              | [Main][f96ce] - [Mirror][f96cem] |
-|Slackware64 15.0  | x86_64 64-bit | S15Pup64 22.12        | [Main][sp64] - [Mirror][sp64] |
-|Slackware 15.0    | x86 32-bit    | S15Pup32 22.12        | [Main][sp32] - [Mirror][sp32] |
+|Latest Version        | Architecture  | Compatibility \*  | Download link                                           |
+|----------------------|---------------|-------------------|---------------------------------------------------------|
+|BookwormPup64 10.0    | x86_64 64-bit | Debian Bookworm 64| [Main][bw64] - [Mirror][bw64m] |
+|BookwormPup32 23.12   | x86 32-bit    | Debian Bookworm 32| [Main][bw32] - [Mirror][bw32m] |
+|F96-CE_4              | x86_64 64-bit | Ubuntu Focal 64   | [Main][f96ce] - [Mirror][f96cem] |
+|S15Pup64 22.12        | x86_64 64-bit | Slackware64 15.0  | [Main][sp64] - [Mirror][sp64] |
+|S15Pup32 22.12        | x86 32-bit    | Slackware 15.0    | [Main][sp32] - [Mirror][sp32] |
 {: .table .table-striped .table-bordered }
 
 [s732]: https://distro.ibiblio.org/puppylinux/puppy-slacko-7.0/32/slacko-7.0.iso
