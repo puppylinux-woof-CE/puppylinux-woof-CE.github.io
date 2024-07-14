@@ -24,10 +24,15 @@ If one of these things interest you, read on.
 Recent releases - each Pup has its own look and feel.....
 
 [![Screenshot of BookwormPup64-10.0](screenshots/BWP64.png){: .cr-image }](screenshots.html "Screenshot Page")
+
 [Release Announcement](https://distro.ibiblio.org/puppylinux/puppy-bookwormpup/Puppy%20Linux%20Release%20Announcement.html)
+
 [Forum Announcement](https://forum.puppylinux.com/viewtopic.php?t=8690)
+
 [![Screenshot of BookwormPup32-23.12](screenshots/BWP32.png){: .cr-image }](screenshots.html "Screenshot Page")
+
 [Release Announcement](https://distro.ibiblio.org/puppylinux/puppy-bookwormpup/Puppy%20Linux%20Release%20Announcement.html)
+
 [Forum Announcement](https://forum.puppylinux.com/viewtopic.php?t=10087)
 
 ### First thing first
