@@ -147,7 +147,9 @@ the software itself, but from the community that gathers around it.
 Whatever you have in mind - praises, curses, questions, suggestions,
 or just plain chit-chat, we welcome you to join us at 
 [Puppy Linux Discussion Forum](https://forum.puppylinux.com) or just check 
-the [discussions][download] for the latest puppylinux woof builds.
+the [discussions][download] for the latest puppylinux woof builds. There is also
+an [Alternative Forum](https://puppylinux.freeforums.net) which will be used only
+"in emergency" to explain what is happening.
 
 
 ### I need more info before deciding to try ...
