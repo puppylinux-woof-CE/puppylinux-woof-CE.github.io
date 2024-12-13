@@ -114,7 +114,7 @@ for more comprehensive information. Official Pup build recipes are kept at [Woof
 [bw64m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bookwormpup/BookwormPup64/BookwormPup64.htm
 [bw32]: https://distro.ibiblio.org/puppylinux/puppy-bookwormpup/BookwormPup32/BookwormPup32.htm
 [bw32m]: http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-bookwormpup/BookwormPup32/BookwormPup32.htm
-[f96ce]: https://mega.nz/folder/j0JQ2RaZ#Uiw3eA8MBOhOxHnwxqRKNg
+[f96ce]: https://distro.ibiblio.org/puppylinux/puppy-fossa/F96-CE.htm
 [f96cem]: https://f96.puppylinux.com
 
 > \* Compatibility: A Puppylinux distribution can also be built and assembled using packages
