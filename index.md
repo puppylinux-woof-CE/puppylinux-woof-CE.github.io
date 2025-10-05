@@ -37,10 +37,3 @@ the [AARNET](http://mirror.aarnet.edu.au/pub/puppylinux/) and the
 Australia are known to update regularly and are usually faster than Ibiblio.
 
 _Mirrors may take up to a day to incorporate changes in Ibiblio_.
-
-
-
-
-<p align="center">
- <a href="https://distrowatch.com/table.php?distribution=puppy">DistroWatch Rankings</a>
-</p>
