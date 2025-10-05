@@ -21,10 +21,11 @@ generally speaking provide _consistent behaviours and features
  6. Different Varieties.
 
 ### Download Sites
+Download from the [Puppy Linux Distro Collection](https://forum.puppylinux.com/puppy-linux-collection/).
 
 Puppy Linux variants since version 2 are hosted at [Ibiblio](http://distro.ibiblio.org/puppylinux/).
 
-Ibiblio also hosts the puppy specific packages (pet) used to build puppies as 
+Ibiblio also hosts the Puppy Linux specific packages (.pet) used to build a system as 
 well as squashfs files (sfs) with kernels, kernel sources, large applications 
 and application frameworks.
 
