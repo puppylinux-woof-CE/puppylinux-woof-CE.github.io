@@ -7,7 +7,7 @@ title: Puppy Linux Home
 Puppy Linux is a unique family of Linux distributions meant for the home-user computers. It was originally created by 
 [Barry Kauler](http://bkhome.org/news) in 2003.
 
-The [Puppy Linux History](history.html#family) from the beginning.
+The [Puppy Linux History](history.html) from the beginning.
 
 Explore [Screenshots](screenshots.html)
 
