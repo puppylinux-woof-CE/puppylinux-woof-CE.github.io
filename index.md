@@ -14,7 +14,7 @@ generally provide consistent behaviours and features
 
 The [Puppy Linux History](history.html#family) of the different operating systems.
 
-### Puppy Linux advantage
+### Puppy Linux at a glance:
 
  1. Ready to use.
  2. Relatively small size → typically 1.5 G  or less.
