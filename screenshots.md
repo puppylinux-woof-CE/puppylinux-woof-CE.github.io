@@ -5,14 +5,9 @@ youtubeId: qibxDA_Kxdk
 ---
 ## Screenshots
 
-### Official Puppies
+Traditionally, Puppy Linux has used the combination of [JWM](http://joewing.net/projects/jwm/) and Rox Filer Desktop.
 
-Traditionally, Puppy Linux has used the combination of 
-[JWM](http://joewing.net/projects/jwm/) and Rox Filer Desktop. It persists
-until this day. Love it or hate it, you can't argue with the lightness on the 
-system of this combination. It has certainly stood the test of time!
-
-There has been a couple of exceptions to this rule, with some pups offering LXDE or Xfce desktops.
+There are now more exceptions to this rule, with systems offering for example LXDE or Xfce desktops.
 
 #### BookwormPups
 
