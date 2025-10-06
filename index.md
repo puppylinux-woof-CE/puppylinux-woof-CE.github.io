@@ -31,7 +31,7 @@ Ibiblio also hosts the Puppy Linux specific packages (.pet) used to build a syst
 well as squashfs files (sfs) with kernels, kernel sources, large applications 
 and application frameworks.
 
-The Ibiblio puppylinux directory is mirrored by several sites world-wide.
+The Ibiblio Puppy Linux directory is mirrored by several sites world-wide.
 
 The [NLUUG](https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/) and the 
 [UoC](http://ftp.cc.uoc.gr/mirrors/linux/puppylinux/) mirrors in Europe and 
