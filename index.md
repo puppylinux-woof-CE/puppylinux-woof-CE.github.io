@@ -12,6 +12,8 @@ the _same shared principles_, built _using the same set of tools_, built on top
 of a _unique set of puppy specific applications and configurations_ and
 generally speaking provide _consistent behaviours and features
 
+The [Puppy Linux History](history.html#family) of the different operating systems.
+
 ### Puppy Linux advantage
 
  1. Ready to use.
