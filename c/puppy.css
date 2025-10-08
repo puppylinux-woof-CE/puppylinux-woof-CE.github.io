@@ -4,8 +4,7 @@
     display: inline-block;
     width: 32px; 
     height: 32px;
-	padding: 10px;
-    content:"";
+	content:"";
 }
 #boxbar {
 	float: right;
