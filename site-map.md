@@ -25,4 +25,4 @@ The following is a list of accessible pages on this site.
 ![Puppy Logo](c/puppylogo96.png)
 The **Puppy Linux logo** was adopted by Puppy Linux in 2008.
 
-It was created by _rastapax_ on the Puppy Linux Discussion Forum.
+It was created by _rastapax_ on the original Puppy Linux Discussion Forum.
