@@ -16,15 +16,13 @@ The following is a list of accessible pages on this site.
 
 [Screenshots!](screenshots.html)
 
-[Puppy Linux Supported Architectures](arch.html)
-
 [Puppy Linux Installation](install.html)
 
 ---
 
 ### The Puppy Linux Logo
 
-![Puppy Logo](c/puppylogo96.png){:height="36px" width="36px"} 
+![Puppy Logo](c/puppylogo96.png)
 The **Puppy Linux logo** was adopted by Puppy Linux in 2008.
 
 It was created by _rastapax_ on the Puppy Linux Discussion Forum.
