@@ -8,11 +8,7 @@ updated: unknown
 
 The following is a list of accessible pages on this site.
 
-[Frequently Asked Questions (FAQ)](faq.html)
-
 [Puppy Linux history](history.html)
-
-[Puppy Linux family tree](family-tree.html)
 
 [Puppy Linux Team](team.html)
 
@@ -23,10 +19,6 @@ The following is a list of accessible pages on this site.
 [Puppy Linux Supported Architectures](arch.html)
 
 [Puppy Linux Installation](install.html)
-
-[Puppy Linux Downloads](download.html)
-
-[Puppy Linux Forums](forums.html)
 
 ---
 
