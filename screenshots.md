@@ -15,15 +15,15 @@ TrixiePup64 is available in modern Wayland and retro X11 desktop variations, bot
 
 The modern Wayland desktop variant features the wlroots-based Labwc desktop compositor, SFWbar taskbar, and versatile SpaceFM for desktop and file management. This release also includes Xwayland (a minimal X server) which runs under Wayland as a compatibility interface for native X11 applications. The hybrid integration of two distinct display server protocols provides convenient support for running Wayland and X11 applications simultaneously.
 
-![Screenshot of TrixiePup64](screenshots/trixiepup64.png){: .cr-image }
+![Screenshot of TrixiePup64](screenshots/trixiepup64.png)
 
 #### BookwormPups
 
 Featuring JWM, RoxFiler, GTK-3 apps, Apt/Synaptic package management, OverlayFS, USRMerge filesystem, Pipewire, ConnMan
 
-![Screenshot of BookwormPup64-10.0](screenshots/BWP64.png){: .cr-image }
+![Screenshot of BookwormPup64-10.0](screenshots/BWP64.png)
 
-![Screenshot of BookwormPup32-23.12](screenshots/BWP32.png){: .cr-image }
+![Screenshot of BookwormPup32-23.12](screenshots/BWP32.png)
 
 #### S15Pup64-22.12
 
