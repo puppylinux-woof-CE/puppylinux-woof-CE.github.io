@@ -24,7 +24,7 @@ generally provide consistent behaviours and features
  4. Customisable within minutes.
  6. Different Varieties.
     
-[![TrixiePup64Wayland - An Introduction](https://forum.puppylinux.com/download/file.php?id=34385)](https://youtu.be/QuJudcIA_Ts?si=TaNbmeMSkCWx1owQ)
+[![TrixiePup64Wayland - An Introduction](https://forum.puppylinux.com/download/file.php?id=34385)](https://youtu.be/QuJudcIA_Ts?si=TaNbmeMSkCWx1owQ "YouTube Video of Trixiepup64")
 
 ### Download Sites
 Download from the [Puppy Linux Distro Collection](https://forum.puppylinux.com/puppy-linux-collection).
