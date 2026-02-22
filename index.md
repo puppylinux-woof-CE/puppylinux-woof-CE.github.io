@@ -23,6 +23,8 @@ generally provide consistent behaviours and features
  3. Fast and versatile.
  4. Customisable within minutes.
  6. Different Varieties.
+    
+[![TrixiePup64Wayland - An Introduction](https://forum.puppylinux.com/download/file.php?id=34385)](https://youtu.be/QuJudcIA_Ts?si=TaNbmeMSkCWx1owQ)
 
 ### Download Sites
 Download from the [Puppy Linux Distro Collection](https://forum.puppylinux.com/puppy-linux-collection).
