@@ -6,13 +6,10 @@ updated: unknown
 ---
 ## Puppy Linux Forums
 
-Puppy Linux has a wonderful community that is very helpful. Through the 
-generous contribution of John Murga we have our own dedicated forum that is
+Puppy Linux has a wonderful community that is very helpful. Started through the 
+generous contribution of John Murga and now community funded we have our own dedicated forum that is
 _the_ place to get help, report bugs or just generally hang out with like
 minded Puppy enthusiasts.
-
-There are also two alternative forums available, the first generously
-supplied by Raffy and the second at Linux Questions.
 
 ### Main Forum
 
