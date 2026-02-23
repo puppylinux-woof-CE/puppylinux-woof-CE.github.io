@@ -9,8 +9,9 @@ Puppy Linux is a unique family of Linux distributions meant for the home-user co
 
 The [Puppy Linux History](history.html) from the beginning.
 
-Explore [Screenshots](screenshots.html)
-
+Explore [Screenshots](screenshots.html),
+    [Forums](forums.html)
+     
 Puppy Linux is **a collection of multiple Linux distributions**, built on
 the _same shared principles_, built _using the same set of tools_, built on top 
 of a _unique set of puppy specific applications and configurations_ and to
