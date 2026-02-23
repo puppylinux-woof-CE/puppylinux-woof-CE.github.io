@@ -17,10 +17,5 @@ minded Puppy enthusiasts.
 
 ### Old Forum
 
-[The Old Murga-Linux Forum - Read Only - all links are preserved](http://oldforum.puppylinux.com)
+[The Old Murga-Linux Forum - Read Only - all links are preserved](https://oldforum.puppylinux.com)
 
-### Alternate Forums
-
-[The alternate Puppy Linux Forum - Raffy](http://puppylinux.info/)
-
-[Puppy Linux Forum at Linux Questions](http://www.linuxquestions.org/questions/puppy-71/)
