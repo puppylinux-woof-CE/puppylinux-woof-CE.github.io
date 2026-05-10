@@ -43,5 +43,6 @@ The [NLUUG](https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/) and the
 the [AARNET](http://mirror.aarnet.edu.au/pub/puppylinux/) and the 
 [Internode](http://mirror.internode.on.net/pub/puppylinux/) mirrors in 
 Australia are known to update regularly and are usually faster than Ibiblio.
+[UMBC](https://mirror.lug.umbc.edu/puppylinux/) is a new mirror in the USA.
 
 _Mirrors may take up to a day to incorporate changes in Ibiblio_.
