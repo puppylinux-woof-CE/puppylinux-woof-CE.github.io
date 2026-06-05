@@ -38,7 +38,7 @@ and application frameworks.
 
 The Ibiblio Puppy Linux directory is mirrored by several sites world-wide.
 
-The [NLUUG](https://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/) and the 
+The [NLUUG](https://ftp.nluug.nl/os/Linux/distr/puppylinux/) and the 
 [UoC](http://ftp.cc.uoc.gr/mirrors/linux/puppylinux/) mirrors in Europe and 
 the [AARNET](http://mirror.aarnet.edu.au/pub/puppylinux/) and the 
 [Internode](http://mirror.internode.on.net/pub/puppylinux/) mirrors in 
