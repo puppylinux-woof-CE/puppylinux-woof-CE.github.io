@@ -40,3 +40,15 @@ $().ready(function() {
 	}, false, true);
 });
 
+// For Hamburger Menu //
+document.addEventListener('DOMContentLoaded', function () {
+  const hamburger = document.querySelector('.hamburger');
+  const boxbar = document.getElementById('boxbar');
+
+  if (hamburger && boxbar) {
+    hamburger.addEventListener('click', function () {
+      hamburger.classList.toggle('is-active');
+      boxbar.classList.toggle('is-active');
+    });
+  }
+});

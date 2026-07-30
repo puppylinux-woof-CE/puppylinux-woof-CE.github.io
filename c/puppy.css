@@ -9,6 +9,7 @@
 }
 
 #headline {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -124,4 +125,103 @@ li.nav {
 a.hideDisplay:hover span.showDisplayOnHover{
 	width: 300px;
 }
+}
+
+/* Hamburger Menu */
+.hamburger-inner, 
+.hamburger-inner::before, 
+.hamburger-inner::after {
+  background-color: #1a1919; 
+}
+
+.hamburger {
+  display: none;
+  outline: none;
+}
+
+.nav-label {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .brand.puppy-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+	padding: 6px 16px;
+	min-height : auto;
+  }
+
+  .hamburger {
+    display: inline-block;
+	padding: 0; 
+    margin: 0;
+	margin-right: 17px;
+	transform: scale(0.8);
+  }
+
+  #boxbar {
+    display: none;
+    width: 100%;
+    float: none;
+    height: auto;
+  }
+
+  #boxbar.is-active {
+    display: block;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 2000;
+    background: #ffffff;
+    border-top: 1px solid #eee;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  }
+
+  #boxbar ul {
+    display: flex;
+    flex-direction: column;
+    padding: 6px 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  li.nav {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-bottom: 1px solid #f0f0f0;
+  }
+
+  li.nav:last-child {
+    border-bottom: none;
+  }
+
+  li.nav:hover,
+  li.nav:active {
+    background: #f5f5f5;
+  }
+
+  li.nav a {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 12px;
+    gap: 12px;
+    text-decoration: none;
+  }
+
+  .nav-icons {
+    margin-left: 0;
+    flex-shrink: 0;
+  }
+
+  #boxbar.is-active .nav-label {
+    display: inline-block;
+    font-size: 15px;
+    color: #0f0f0f;
+    font-weight: 500;
+  }
 }
