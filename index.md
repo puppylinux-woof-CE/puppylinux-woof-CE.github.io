@@ -13,9 +13,9 @@ Explore [Screenshots](screenshots.html),
     [Forums](forums.html)
      
 Puppy Linux is **a collection of multiple Linux distributions**, built on
-the _same shared principles_, built _using the same set of tools_, built on top 
-of a _unique set of puppy specific applications and configurations_ and to
-generally provide consistent behaviours and features
+the _same shared principles_, _using the same set of tools_, on top 
+of a _unique set of puppy specific applications and configurations_, and to
+generally provide consistent behaviours and features.
 
 ### Puppy Linux at a glance:
 

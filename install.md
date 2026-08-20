@@ -61,7 +61,7 @@ over the internet.
 
 Saving the session can be achieved in a number of ways:
  
- * You can save the session to a harddrive or an USB drive in a vfat,
+ * You can save the session to a harddrive or a USB drive in a vfat,
     ntfs or linux<sup><a href="#part">[1]</a></sup> partition. This 
     will save all your settings to what is known as a _pupsave_
     <sup><a href="#save">[2]</a></sup> file or folder. When you boot off the 
@@ -102,7 +102,7 @@ your files and settings will be exactly as you left them at last shutdown.
 >**This type of install copies the main puppy files from the boot
 media (either optical or USB) to your chosen USB drive**. Firstly, you 
 should insert the USB drive that you want to use for installation. Again 
-using the graphical partition manager _GParted_ you need to make sure
+using the graphical partition manager _GParted_, you need to make sure
 that there is a suitable partition on the USB drive. This can be formatted
 to _fat32_ Windows™ style filesystem (good for portability if you want 
 to use the drive as storage to be used between Linux and Windows™) or 
