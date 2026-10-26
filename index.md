@@ -32,8 +32,8 @@ Download from the [Puppy Linux Distro Collection](https://forum.puppylinux.com/p
 
 Puppy Linux variants since version 2 are hosted at [Ibiblio](http://distro.ibiblio.org/puppylinux).
 
-Ibiblio also hosts the Puppy Linux specific packages (.pet) used to build a system as 
-well as squashfs files (sfs) with kernels, kernel sources, large applications 
+Ibiblio also hosts some Puppy Linux specific packages (.pet) as 
+well as squashfs files (.sfs) with kernels, kernel sources, large applications 
 and application frameworks.
 
 The Ibiblio Puppy Linux directory is mirrored by several sites world-wide.
