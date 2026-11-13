@@ -308,11 +308,11 @@ title: Puppy Linux Home
       </article>
       <article class="home-card">
         <h3>Make it yours</h3>
-        <p>Choose a variant, desktop, and apps that suit you.</p>
+        <p>Choose a variant, desktop, and apps that suit you. Remaster or rebuild your own Puplet</p>
       </article>
       <article class="home-card">
         <h3>Helpful community</h3>
-        <p>Find practical help from Puppy users around the world.</p>
+        <p>Find practical help from Puppy users around the world on the <a href="https://forum.puppylinux.com">forum</a>.</p>
       </article>
     </div>
   </section>
@@ -322,13 +322,15 @@ title: Puppy Linux Home
       <div>
         <h2 id="why-title">A project with room to explore</h2>
         <p>
-          Since 2003, Puppy Linux has grown into a family of community-built distributions
-          for different needs.
+          Since 2003, Puppy Linux has grown into a family of community-built distributions for different needs.
         </p>
         <p>
           Read the <a href="history.html">history</a>, browse the
           <a href="screenshots.html">screenshots</a>, or visit the
           <a href="https://forum.puppylinux.com">forum</a>.
+        </p>
+        <p>
+          The main tool used by the <a href="team.html">Puppy Team</a>to build new variants of Puppy Linux is <a href="woof-ce.html)">Woof-CE</a>.
         </p>
       </div>
       <div class="home-story-panel">
