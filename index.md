@@ -287,7 +287,7 @@ title: Puppy Linux Home
       </div>
     </div>
     <figure class="home-visual">
-      <img src="screenshots/trixiepup64.webp" alt="Puppy Linux TrixiePup64 desktop showing its clean workspace and application dock" fetchpriority="high">
+      <a href="https://youtu.be/QuJudcIA_Ts?si=TaNbmeMSkCWx1owQ" target="_blank" rel="noopener noreferrer"><img src="screenshots/trixiepup64.webp" alt="Puppy Linux TrixiePup64 desktop showing its clean workspace and application dock" fetchpriority="high"></a>
       <figcaption>See the Puppy Linux desktop before you install it.</figcaption>
     </figure>
   </section>
