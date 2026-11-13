@@ -26,7 +26,9 @@ distribution's name itself is _Puppy_? ☺
 
 ### Building Puppy from Woof-CE.
 
-There are a few prerequisites to building a woof-CE based Puppy:
+The easiest way to use Woof-CE is to use Github - [github.com](https://github.com/puppylinux-woof-CE/woof-CE#building-a-puppy-using-github-actions)
+
+To build locally on your PC there are a few prerequisites needed to build a woof-CE based Puppy:
   
   * a modern Puppy; one built from woof-CE is best.
   
@@ -169,7 +171,7 @@ puppies, they must be merged back to the original Woof-CE repository.
 To merge that, you need to send a patch or better yet a pull request
 to the Woof-CE repository.
 
-The [Woof-CE members](team.html#stewards) will then consider your 
+The [Woof-CE members](team.html) will then consider your 
 request and merge them if they feel that your changes are beneficial 
 for everyone. If your patch is not accepted, don't feel bad. Often
 it is just a little changes you need to apply before resubmitting
