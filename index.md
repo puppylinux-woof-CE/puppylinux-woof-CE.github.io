@@ -330,7 +330,7 @@ title: Puppy Linux Home
           <a href="https://forum.puppylinux.com">forum</a>.
         </p>
         <p>
-          The main tool used by the <a href="team.html">Puppy Team</a>to build new variants of Puppy Linux is <a href="woof-ce.html)">Woof-CE</a>.
+          The main tool used by the <a href="team.html">Puppy Team</a> to build new variants of Puppy Linux is <a href="woof-ce.html)">Woof-CE</a>.
         </p>
       </div>
       <div class="home-story-panel">
