@@ -271,9 +271,9 @@ title: Puppy Linux Home
   <section class="home-hero" aria-labelledby="home-title">
     <div>
       <p class="home-eyebrow">A friendly Linux family for everyday computers</p>
-      <h1 id="home-title">A fast, flexible OS for older PCs.</h1>
+      <h1 id="home-title">A fast, flexible OS for single-user PCs.</h1>
       <p>
-        Small, ready to use, and easy to try from a USB drive.
+        Small, ready to use, and easy to try from a USB drive. Suitable for both modern and older PCs.
       </p>
       <div class="home-actions">
         <a class="home-button home-button-primary" href="https://forum.puppylinux.com/puppy-linux-collection">Download Puppy Linux</a>
@@ -357,4 +357,13 @@ title: Puppy Linux Home
     </div>
     <a class="home-button home-button-primary" href="https://forum.puppylinux.com/puppy-linux-collection">Choose your Puppy</a>
   </section>
+
+  <section class="home-section home-mirrors" aria-labelledby="mirrors-title">
+    <h2 id="mirrors-title">Ibiblio & mirrors</h2>
+    <p>Many Puppy Linux variants are hosted directly or indirectly at <a href="http://distro.ibiblio.org/puppylinux">Ibiblio</a>.</p> 
+    <p>The Ibiblio Puppy Linux directory is mirrored by several sites world-wide:</p> 
+    <p>The <a href="https://ftp.nluug.nl/os/Linux/distr/puppylinux/">NLUUG</a> and the <a href="http://ftp.cc.uoc.gr/mirrors/linux/puppylinux/">UoC</a> mirrors in Europe and the <a href="http://mirror.aarnet.edu.au/pub/puppylinux/">AARNET</a> and the <a href="http://mirror.internode.on.net/pub/puppylinux/">Internode</a> mirrors in Australia are known to update regularly and are usually faster than Ibiblio. <a href="https://mirror.lug.umbc.edu/puppylinux/">UMBC/LUG</a> is a new mirror in the USA.</p> 
+    <p>Mirrors may take up to a day to incorporate changes in Ibiblio.</p> 
+  </section>
+  
 </main>
