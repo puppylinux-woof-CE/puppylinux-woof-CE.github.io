@@ -36,7 +36,7 @@ title: Puppy Linux Home
     grid-template-columns: minmax(0, 1fr) minmax(320px, 0.9fr);
     gap: clamp(2rem, 6vw, 5rem);
     align-items: center;
-    padding: clamp(2rem, 6vw, 4.5rem) 0 3rem;
+    padding: 1rem 0 1.5rem;
   }
 
   .home-hero p {
@@ -126,7 +126,7 @@ title: Puppy Linux Home
   }
 
   .home-section {
-    margin: 1rem 0 3rem;
+    margin: 0.5rem 0 3rem;
     padding-top: 1rem;
   }
 
@@ -271,7 +271,8 @@ title: Puppy Linux Home
   <section class="home-hero" aria-labelledby="home-title">
     <div>
       <p class="home-eyebrow">A friendly Linux family for everyday computers</p>
-      <h1 id="home-title">A fast, flexible OS for older PCs.</h1>
+      <h1 id="home-title">A fast, flexible OS for Single-user PCs.</h1>
+      <p>Suitable for both modern and older PCs.</p>
       <p>
         Small, ready to use, and easy to try from a USB drive.
       </p>
@@ -348,6 +349,27 @@ title: Puppy Linux Home
       <a href="screenshots/slacko64.webp"><img src="screenshots/slacko64.webp" alt="Slacko64 desktop screenshot" loading="lazy" decoding="async"></a>
     </div>
     <p><a href="screenshots.html">View the complete screenshot gallery</a></p>
+  </section>
+
+  <section class="home-section" aria-labelledby="download-title">
+    <h2 id="download-title">Download Sites</h2>
+    <p>Download from the <a href="https://forum.puppylinux.com/puppy-linux-collection">Puppy Linux Distro Collection</a>.</p>
+    <p>Puppy Linux variants since version 2 are hosted at <a href="http://distro.ibiblio.org/puppylinux">Ibiblio</a>.</p>
+    <p>
+      Ibiblio also hosts some Puppy Linux specific packages (.pet) as
+      well as squashfs files (.sfs) with kernels, kernel sources, large applications
+      and application frameworks.
+    </p>
+    <p>The Ibiblio Puppy Linux directory is mirrored by several sites world-wide.</p>
+    <p>
+      The <a href="https://ftp.nluug.nl/os/Linux/distr/puppylinux/">NLUUG</a> and
+      <a href="http://ftp.cc.uoc.gr/mirrors/linux/puppylinux/">UoC</a> mirrors in Europe and
+      the <a href="http://mirror.aarnet.edu.au/pub/puppylinux/">AARNET</a> and
+      <a href="http://mirror.internode.on.net/pub/puppylinux/">Internode</a> mirrors in
+      Australia are known to update regularly and are usually faster than Ibiblio.
+      <a href="https://mirror.lug.umbc.edu/puppylinux/">UMBC/LUG</a> is a new mirror in the USA.
+    </p>
+    <p><em>Mirrors may take up to a day to incorporate changes in Ibiblio</em>.</p>
   </section>
 
   <section class="home-section home-community" aria-labelledby="community-title">
