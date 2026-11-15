@@ -18,7 +18,7 @@
 
 #boxbar {
 	float: right;
-	height: 34px;
+	height: auto;
 	margin-left: auto;
 }
 #boxbar ul {
@@ -27,38 +27,54 @@
     padding: 0;
     display: flex;
     align-items: center;
-	gap: 6px;
+	gap: 4px;
 }
 #boxbar ul li {
 	float: none;
 }
-li.nav {
-    width: 80px;
-	height: 40px;
+#boxbar li.nav {
+	width: auto;
+	height: auto;
 }
-li.nav:has(#mode-toggle-btn) {
+#boxbar li.nav:has(#mode-toggle-btn) {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-li.nav:hover {
-    background: #f5f5f5;
-}
-
-li.nav a {
+#boxbar li.nav a {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 40px;
-    height: 40px;
-    margin: 0 auto;
+    gap: 8px;
+    width: auto;
+    min-height: 40px;
+    margin: 0;
+    padding: 4px 10px;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
     text-decoration: none;
 }
-.nav-icons {
-	height: 24px;
-	width: 24px;
-	margin-left: 30px;
-	margin: 0;
+#boxbar li.nav a:hover,
+#boxbar li.nav a:focus-visible {
+	background: rgba(255, 255, 255, 0.16);
+}
+.nav-icon {
+	display: block;
+	width: 20px;
+	height: 20px;
+	flex: 0 0 20px;
+	fill: none;
+	stroke: currentColor;
+	stroke-width: 1.8;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+}
+.nav-label {
+	display: inline;
+	color: inherit;
+	line-height: 1.3;
 }
 noscript p {
 	color:#FF518E;
@@ -139,10 +155,6 @@ a.hideDisplay:hover span.showDisplayOnHover{
   outline: none;
 }
 
-.nav-label {
-  display: none;
-}
-
 @media (max-width: 768px) {
   .brand.puppy-logo {
     display: flex;
@@ -194,7 +206,7 @@ a.hideDisplay:hover span.showDisplayOnHover{
     list-style: none;
   }
 
-  li.nav {
+  #boxbar li.nav {
     box-sizing: border-box;
     width: 100%;
     height: auto;
@@ -202,16 +214,17 @@ a.hideDisplay:hover span.showDisplayOnHover{
     border-bottom: 1px solid #f0f0f0;
   }
 
-  li.nav:last-child {
+  #boxbar li.nav:last-child {
     border-bottom: none;
   }
 
-  li.nav:hover,
-  li.nav:active {
+  #boxbar li.nav a:hover,
+  #boxbar li.nav a:focus-visible,
+  #boxbar li.nav a:active {
     background: #f5f5f5;
   }
 
-  li.nav a {
+  #boxbar li.nav a {
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -221,22 +234,21 @@ a.hideDisplay:hover span.showDisplayOnHover{
     margin: 0;
     padding: 12px 16px;
     gap: 12px;
+    color: #24566a;
     text-decoration: none;
   }
 
-  .nav-icons {
+  .nav-icon {
     display: block;
-    width: 24px;
-    height: 24px;
-    margin: 0;
-    flex: 0 0 24px;
-    object-fit: contain;
+    width: 22px;
+    height: 22px;
+    flex-basis: 22px;
   }
 
   #boxbar.is-active .nav-label {
     display: inline-block;
     font-size: 15px;
-    color: #0f0f0f;
+    color: inherit;
     font-weight: 500;
     line-height: 1.4;
   }
