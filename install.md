@@ -4,8 +4,10 @@ title: Puppy Linux Installation and Usage
 ---
 ## Puppy Linux Installation and Usage
 
+See [this guide](https://forum.puppylinux.com/viewtopic.php?t=17376) on the Forum.
+
 The fact is that you do not need to install Puppy Linux at all! You can 
-simply [download](index.html#download) and burn it to an optical disc
+simply [download](https://forum.puppylinux.com/puppy-linux-collection) and burn it to an optical disc
 (CD, DVD, CD&plusmn;RW, DVD&plusmn;RW) or _dd_ it to an USB drive and
 boot it _live_. 
 
@@ -18,10 +20,6 @@ authenticity by checking its _md5sum_ you can burn it to a DVD or a CD
 using any Linux optical burning tool. Just make sure you burn it as an
 _image_ and not _data_ otherwise it will not be bootable.
 
-In Windows we recommend 
-[Imageburn (direct link to download)](http://www.datafilehost.com/download-fe571dfa.htm)
-to burn the image to a CD or DVD.
-
 #### USB
 
 All Linux versions come with a tool name _dd_. Our ISO images since
@@ -31,13 +29,6 @@ you know what you are doing_. Here is a simple
 [tutorial](http://it.toolbox.com/blogs/enlightenment/howto-create-a-bootable-linux-media-using-the-dd-command-65907) 
 on using _dd_ to make a bootable USB drive. _Be very careful with your target 
 drive name!_
-
-There is a Windows version of _dd_ available on this
-[site](http://www.chrysocome.net/dd).
-
-There is also a graphical tool for Windows called _Win32 Disk Imager_.
-A download is available from 
-[this page](https://drive.google.com/folderview?id=0B_iVVJCd9q09VGZsZE5keU1vR0E&usp=sharing).
 
 #### Booting
 
@@ -121,7 +112,7 @@ session is complete, a _pupsave_ file or folder is created. On you next
 boot your files and settings will be exactly as you left them at last 
 shutdown.
     
-#### 3. Full Install
+#### 3. Full Install - NOT RECOMMENDED!
   
 >**This is a traditonal Linux install to its own dedicated partition.**
 If you don't have a suitable partition then you can
@@ -163,7 +154,7 @@ these packages a one step process. _The sfs packages do not work on a full
 install_.
 
 Once you have been using Puppy for a little while you may want to try a
-_remaster_ (see [FAQ](faq.html)). This saves the state of your current
+_remaster_). This saves the state of your current
 installed system (minus some the personal stuff) to a burnable ISO image. 
 This enables you to have your system setup and ready to go if you have
 several computers or you can share your remaster as a _puplet_ with the
