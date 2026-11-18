@@ -364,7 +364,7 @@ title: Puppy Linux Home
     <h2 id="mirrors-title">Ibiblio & mirrors</h2>
     <p>Many Puppy Linux variants are hosted directly or indirectly at <a href="http://distro.ibiblio.org/puppylinux">Ibiblio</a>.</p> 
     <p>The Ibiblio Puppy Linux directory is mirrored by several sites world-wide:</p> 
-    <p>The <a href="https://ftp.nluug.nl/os/Linux/distr/puppylinux/">NLUUG</a> and the <a href="http://ftp.cc.uoc.gr/mirrors/linux/puppylinux/">UoC</a> mirrors in Europe and the <a href="http://mirror.aarnet.edu.au/pub/puppylinux/">AARNET</a> and the <a href="http://mirror.internode.on.net/pub/puppylinux/">Internode</a> mirrors in Australia are known to update regularly and are usually faster than Ibiblio. <a href="https://mirror.lug.umbc.edu/puppylinux/">UMBC/LUG</a> is a new mirror in the USA.</p> 
+    <p>The <a href="https://ftp.nluug.nl/os/Linux/distr/puppylinux/">NLUUG</a> and the <a href="http://ftp.cc.uoc.gr/mirrors/linux/puppylinux/">UoC</a> mirrors in Europe and the <a href="http://mirror.aarnet.edu.au/pub/puppylinux/">AARNET</a> mirror in Australia are known to update regularly and are usually faster than Ibiblio. <a href="https://mirror.lug.umbc.edu/puppylinux/">UMBC/LUG</a> is a new mirror in the USA.</p> 
     <p>Mirrors may take up to a day to incorporate changes in Ibiblio.</p> 
   </section>
   
